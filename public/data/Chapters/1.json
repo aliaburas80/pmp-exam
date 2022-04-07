@@ -1,0 +1,2721 @@
+{
+    "questions": [
+        {
+            "id": 2042,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are a project manager in a construction project. What should you do to ensure the successful delivery of the project?",
+            "feedback": "Identify the project’s risks and the necessary success criteria.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت مدير مشروع بناء. ما الذي يجب عليك فعله لضمان التسليم الناجح للمشروع؟",
+            "feedback_ar": "لضمان التسليم الناجح للمشروع ، يجب على مدير المشروع تحديد المخاطر التى قد تؤثر على المشروع والقيام بعمليه التحليل لمعرفه تاثير واحتماليه كل خطر ووضع خطة استجابه مناسبه للتعامل مع المخاطر وقت حدوثها. هذا سوف يساعد على التسليم الناجح للمشروع. أيضا لا بد من وضع معايير النجاح للمشروع للمساعده على التسليم الناجح للمشروع.",
+            "question_title_fr": "Vous &ecirc;tes un chef de projet dans un projet de construction. Que devez-vous faire pour assurer la r&eacute;ussite de la livraison du projet?</p>",
+            "feedback_fr": "Identifier les risques du projet et les crit&egrave;res de r&eacute;ussite n&eacute;cessaires.</p>",
+            "answers": [
+                {
+                    "id": 8414,
+                    "question_id": 2042,
+                    "answer": "Identify the project’s risks and necessary success criteria.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "تحديد مخاطر المشروع ومعايير النجاح اللازمة.",
+                        "answer_ar": "تحديد مخاطر المشروع ومعايير النجاح اللازمة.",
+                        "answer_fr": "Identifier les risques du projet et les critères de réussite nécessaires."
+                    }
+                },
+                {
+                    "id": 8411,
+                    "question_id": 2042,
+                    "answer": "Conduct a team-building activity",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "قم بنشاط بناء الفريق",
+                        "answer_ar": "قم بنشاط بناء الفريق",
+                        "answer_fr": "Mener une activité de développement de l'esprit d'équipe (team-building )"
+                    }
+                },
+                {
+                    "id": 8413,
+                    "question_id": 2042,
+                    "answer": "Meet with stakeholders to communicate the schedule budget, and cost impact in the event of a project delay.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "اجتمع مع المعنيين لإبلاغهم بميزانية الجدول الزمني وتأثير التكلفة في حالة حدوث تأخير في المشروع.",
+                        "answer_ar": "اجتمع مع المعنيين لإبلاغهم بميزانية الجدول الزمني وتأثير التكلفة في حالة حدوث تأخير في المشروع.",
+                        "answer_fr": "Rencontrer les parties prenantes pour communiquer le budget de l'échéancier et l'impact sur les coûts en cas de retard du projet."
+                    }
+                },
+                {
+                    "id": 8412,
+                    "question_id": 2042,
+                    "answer": "Establish a management reserve to handle the unknown risks when occurs",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إنشاء احتياطي إداري للتعامل مع المخاطر غير المعروفة عند حدوثها",
+                        "answer_ar": "إنشاء احتياطي إداري للتعامل مع المخاطر غير المعروفة عند حدوثها",
+                        "answer_fr": "Établir une réserve pour imprévus (management reserve) afin de gérer les risques inconnus lorsqu'ils surviennent"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2043,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A multiphase project that has been executed with internal resources has reached a phase gate. The key project stakeholders want to determine if the phase has met its success criteria, and whether or not the project should progress to the next phase. In addition to the project management plan, which documents will be required?",
+            "feedback": "The business documents and project charter are needed to determine whether or not the project should progress to the next phase. The project charter will provide the project's success criteria. The business documents include the business case and benefits management plan. The business case documents the business need and the cost-benefit analysis that justifies the project. The benefits management plan is used to measure whether the benefits of the project are being achieved as planned. [PMBOK 6th edition, Page 21]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "وصل مشروع متعدد المراحل تم تنفيذه بموارد داخلية إلى بوابة المرحلة. يرغب المعنيين الرئيسيون في المشروع في تحديد ما إذا كانت المرحلة قد استوفت معايير النجاح الخاصة بها ، وما إذا كان ينبغي للمشروع التقدم إلى المرحلة التالية أم لا. بالإضافة إلى خطة إدارة المشروع ، ما هي المستندات المطلوبة؟",
+            "feedback_ar": "وثائق العمل وميثاق المشروع مطلوبة لتحديد ما إذا كان المشروع يجب أن يتقدم إلى المرحلة التالية أم لا. سيوفر ميثاق المشروع معايير نجاح المشروع. تتضمن وثائق الأعمال دراسة الجدوى وخطة إدارة منافع المشروع. توثق دراسة الجدوى حاجة العمل وتحليل التكلفة والعائد الذي يبرر المشروع. يتم استخدام خطة إدارة منافع المشروع لقياس ما إذا كان يتم تحقيق منافع المشروع كما هو مخطط.\r\n [الطبعة السادسة -PMBOK ، صفحة 21]",
+            "question_title_fr": "Un projet en plusieurs phases qui a &eacute;t&eacute; ex&eacute;cut&eacute; avec des ressources internes a atteint une porte de phase (phase gate). Les principales parties prenantes du projet souhaitent d&eacute;terminer si la phase a satisfait &agrave; ses crit&egrave;res de r&eacute;ussite et si le projet doit ou non passer &agrave; la phase suivante. En plus du plan de management&nbsp;du&nbsp;projet, quels documents seront requis?</p>",
+            "feedback_fr": "Les documents business et la charte du projet sont n&eacute;cessaires pour d&eacute;terminer si le projet doit ou non passer &agrave; la phase suivante. La charte de projet fournit les crit&egrave;res de r&eacute;ussite du projet. Les documents business comprennent&nbsp; le&nbsp;business case et le&nbsp;Plan de gestion des b&eacute;n&eacute;fices.&nbsp;Le business case documente les besoins de l&rsquo;organisation et l&rsquo;analyse co&ucirc;t-b&eacute;n&eacute;fice justifiant le projet.&nbsp;Le plan de gestion des b&eacute;n&eacute;fices sert &agrave; &eacute;valuer si les b&eacute;n&eacute;fices du projet ont &eacute;t&eacute; obtenus comme pr&eacute;vu.&nbsp; [PMBOK 6th edition, Page 21]</p>",
+            "answers": [
+                {
+                    "id": 8416,
+                    "question_id": 2043,
+                    "answer": "Lessons learned register and lessons learned repository",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سجل الدروس المستفادة ومستودع الدروس المستفادة",
+                        "answer_ar": "سجل الدروس المستفادة ومستودع الدروس المستفادة",
+                        "answer_fr": "Registre des retours d'expérience et Archive des retours d'expérience"
+                    }
+                },
+                {
+                    "id": 8418,
+                    "question_id": 2043,
+                    "answer": "Business documents and project charter",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "وثائق الأعمال وميثاق المشروع",
+                        "answer_ar": "وثائق الأعمال وميثاق المشروع",
+                        "answer_fr": "Documents Business et  la charte du projet"
+                    }
+                },
+                {
+                    "id": 8417,
+                    "question_id": 2043,
+                    "answer": "Agreements including procurement contracts",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الاتفاقيات بما في ذلك عقود المشتريات",
+                        "answer_ar": "الاتفاقيات بما في ذلك عقود المشتريات",
+                        "answer_fr": "Accords, y compris les contrats d'approvisionnement"
+                    }
+                },
+                {
+                    "id": 8415,
+                    "question_id": 2043,
+                    "answer": "Risk register and risk report",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سجل المخاطر وتقرير المخاطر",
+                        "answer_ar": "سجل المخاطر وتقرير المخاطر",
+                        "answer_fr": "Registre des risques et rapport sur les risques"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2044,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A project manager is asked to contribute to a document to describe what is intended to be achieved with a project once it is successfully finished, and how this will be measured. What could be the name of that document?",
+            "feedback": "The project benefits management plan is the document that describes how and when the benefits of the project\r\nwill be delivered, and describes the mechanisms that should be in place to measure those benefits. A project benefit\r\nis defined as an outcome of actions, behaviors, products, services, or results that provide value to the sponsoring\r\norganization as well as to the project’s intended beneficiaries. [PMBOK 6th edition, Page 33]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يُطلب من مدير المشروع المساهمة في عمل مستند لوصف ما سيتم تحقيقه بالمشروع بمجرد الانتهاء منه بنجاح ، وكيف سيتم قياس ذلك. ما هو اسم تلك المستند؟",
+            "feedback_ar": "خطة إدارة منافع المشروع هي الوثيقة التي تصف كيف ومتى سوف تُسلَّم منافع المشروع، وتصف الآليات التي يجب أن توضع في المكان\r\nالمناسب لقياس هذه المنافع. وتعرف منفعة المشروع بأنها نتيجة للإجراءات أو السلوكيات أو المنتجات أوالخدمات أو النتائج التي توفر قيمة\r\nللمؤسسة الراعية وكذلك للمستفيدين المستهدفين من المشروع. ويبدأ تطوير خطة إدارة المنافع مبكرًا في دورة حياة المشروع مع تعريف المنافع\r\nالمستهدفة التي يجب أن تتحقق.\r\n [الطبعة السادسة -PMBOK ، الصفحة 33]",
+            "question_title_fr": "Un chef de projet est invit&eacute; &agrave; contribuer &agrave; un document pour d&eacute;crire ce qui est destin&eacute; &agrave; &ecirc;tre r&eacute;alis&eacute; avec un projet une fois termin&eacute; avec succ&egrave;s, et comment cela sera mesur&eacute;. Quel pourrait &ecirc;tre le nom de ce document ?</p>",
+            "feedback_fr": "Le plan de gestion des b&eacute;n&eacute;fices du projet est un document qui d&eacute;crit comment et quand les b&eacute;n&eacute;fices du projet seront obtenus. Il d&eacute;crit &eacute;galement les m&eacute;canismes &agrave; mettre en place pour mesurer ces b&eacute;n&eacute;fices. Un b&eacute;n&eacute;fice du projet est d&eacute;fini comme l&rsquo;aboutissement d&rsquo;actions, comportements, produits, services ou r&eacute;sultats, qui fournit de la valeur &agrave; l&rsquo;organisation sponsor ainsi qu&rsquo;aux b&eacute;n&eacute;ficiaires vis&eacute;s du projet.&nbsp;[PMBOK 6th edition, Page 33]</p>",
+            "answers": [
+                {
+                    "id": 8420,
+                    "question_id": 2044,
+                    "answer": "Change management plan",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "خطة إدارة التغيير",
+                        "answer_ar": "خطة إدارة التغيير",
+                        "answer_fr": "Plan de gestion des changement"
+                    }
+                },
+                {
+                    "id": 8421,
+                    "question_id": 2044,
+                    "answer": "Project management plan",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "خطة إدارة المشروع",
+                        "answer_ar": "خطة إدارة المشروع",
+                        "answer_fr": "Plan de management du projet"
+                    }
+                },
+                {
+                    "id": 8419,
+                    "question_id": 2044,
+                    "answer": "Statement of work",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "بيان نطاق العمل",
+                        "answer_ar": "بيان نطاق العمل",
+                        "answer_fr": "Énoncé des travaux"
+                    }
+                },
+                {
+                    "id": 8422,
+                    "question_id": 2044,
+                    "answer": "Benefits management plan",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "خطة إدارة منافع المشروع",
+                        "answer_ar": "خطة إدارة منافع المشروع",
+                        "answer_fr": "Plan de gestion des bénéfices (Benefits management plan)"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2045,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Which of the following techniques can ensure that the stakeholders are engaged at appropriate project phases and to obtain or confirm their continued commitment to the success of the project?",
+            "feedback": "Stage-gate or phase review meetings give to project stakeholders a chance to review project progress and planned future actions. This gives them a chance to have their voice heard and recorded. The rest of the choices are techniques that are internal to a project. [PMBOK 6th edition, Page 21]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أي من الأساليب التالية يمكن أن يضمن مشاركة المعنيين في مراحل المشروع المناسبة وتأكيد التزامهم المستمر بنجاح المشروع؟",
+            "feedback_ar": "تمنح اجتماعات بوابة المرحلة أو مراجعة المرحلة للمعنيين في المشروع فرصة لمراجعة تقدم المشروع والإجراءات المستقبلية المخطط لها.  \r\n[الطبعة السادسة من البمبوك ، صفحة 21]",
+            "question_title_fr": "Laquelle des techniques suivantes peut garantir que les parties prenantes sont impliqu&eacute;es dans les phases appropri&eacute;es du projet et pour obtenir ou confirmer leur engagement continu envers la r&eacute;ussite du projet ?</p>",
+            "feedback_fr": "La porte de phase (phase gate, revue de phase, porte d&rsquo;&eacute;tape, ou encore point d&rsquo;arr&ecirc;t)&nbsp;intervient &agrave; la fin d&rsquo;une phase, elle&nbsp;donnent aux parties prenantes du projet l&#39;occasion de passer en revue l&#39;avancement du projet et les actions futures pr&eacute;vues. Cela leur donne l&#39;occasion de faire entendre leur voix et de l&#39;enregistrer. Les autres choix sont des techniques internes au projet.&nbsp;[PMBOK 6th edition, Page 21]</p>",
+            "answers": [
+                {
+                    "id": 8424,
+                    "question_id": 2045,
+                    "answer": "Setting ground rules",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "وضع القواعد الأساسية",
+                        "answer_ar": "وضع القواعد الأساسية",
+                        "answer_fr": "Établir des règles de base (ground rules)"
+                    }
+                },
+                {
+                    "id": 8426,
+                    "question_id": 2045,
+                    "answer": "Stage gate meetings",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "اجتماعات بوابة المرحلة",
+                        "answer_ar": "اجتماعات بوابة المرحلة",
+                        "answer_fr": "Réunion passage d'étape (Stage gate)"
+                    }
+                },
+                {
+                    "id": 8423,
+                    "question_id": 2045,
+                    "answer": "Performance audits",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تدقيقات الأداء",
+                        "answer_ar": "تدقيقات الأداء",
+                        "answer_fr": "Audits de performance"
+                    }
+                },
+                {
+                    "id": 8425,
+                    "question_id": 2045,
+                    "answer": "Managing project team",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إدارة فريق المشروع",
+                        "answer_ar": "إدارة فريق المشروع",
+                        "answer_fr": "Gestion de l'équipe projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2046,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are the project manager of the HDM Project. Your project must be completed by September 11 and cannot exceed $10,000. $10,000 is an example of which one of the following?",
+            "feedback": "because the Constraints are limitations placed upon the project that the project manager and team must work within. there are scope, schedule and cost constraints.i. cost constraint (how much funding has been allocated). and the three constraints are commonly called the triple constraints.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت مدير مشروع انشاءات . يجب أن يكتمل مشروعك يوم 11 سبتمبر ولا يمكن أن يتجاوز 10000 دولار. 10000 دولار هي مثال على أي مما يلي؟",
+            "feedback_ar": ".الكلمات المفتاحية : يجب ان يكتمل - لا يمكن ان يتجاوز \r\nمدير المشروع يجب ان ينفذ المشروع ضمن القيود الموجوده ومنها التكلفة والموارد والوقت والجودة والمخاطر ونطاق العمل.",
+            "question_title_fr": "Vous &ecirc;tes le chef d&#39;un Projet HDM.&nbsp;Vous &ecirc;tes le chef de projet du Projet HDM. Votre projet doit &ecirc;tre termin&eacute; au plus tard le 11 septembre et ne peut exc&eacute;der 10 000 $. 10 000 $ est un exemple parmi les suivants ?</p>",
+            "feedback_fr": "Parce que les contraintes sont des limitations impos&eacute;es au projet dans le cadre desquelles le chef de projet et l&#39;&eacute;quipe doivent travailler. il existe des contraintes de p&eacute;rim&egrave;tre, d&#39;&eacute;ch&eacute;ancier et de co&ucirc;t. La contrainte de co&ucirc;t (le montant du financement allou&eacute;) et les trois contraintes sont commun&eacute;ment appel&eacute;es les triples contraintes.</p>",
+            "answers": [
+                {
+                    "id": 8430,
+                    "question_id": 2046,
+                    "answer": "Constraint",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "قيد",
+                        "answer_ar": "قيد",
+                        "answer_fr": "Contrainte (Constraint)"
+                    }
+                },
+                {
+                    "id": 8428,
+                    "question_id": 2046,
+                    "answer": "Scheduled completion date",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تاريخ انتهاء المشروع",
+                        "answer_ar": "تاريخ انتهاء المشروع",
+                        "answer_fr": "Date de fin du projet prévu"
+                    }
+                },
+                {
+                    "id": 8427,
+                    "question_id": 2046,
+                    "answer": "Assumption",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "افتراض",
+                        "answer_ar": "افتراض",
+                        "answer_fr": "Hypothèse (Assumption)"
+                    }
+                },
+                {
+                    "id": 8429,
+                    "question_id": 2046,
+                    "answer": "Management reserve",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الاحتياطي الإداري",
+                        "answer_ar": "الاحتياطي الإداري",
+                        "answer_fr": "Réserve pour imprévus (Management reserve)"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2047,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Your team members told you they are overloaded with many tasks. They are saying they have many tasks assigned to them besides the main tasks in the project. You promised them that you would clear the overloaded tasks. You are a Project manager in:",
+            "feedback": "it's clear that the project manager has full power to remove the overloaded tasks from team members, and because team members have many tasks besides the main tasks in the project so it's Strong Org.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أخبرك أعضاء فريقك أن تم تحميلهم بالعديد من المهام. يقولون أن لديهم العديد من المهام الموكلة إليهم إلى جانب المهام الرئيسية في المشروع. لقد وعدتهم بأنك ستقوم بتقليل هذه المهام. أنت مدير مشروع فى أى نوع من المؤسسات:",
+            "feedback_ar": "من الواضح أن مدير المشروع لديه السلطة الكاملة لإزالة المهام المثقلة بالأعباء من أعضاء الفريق ، وبسبب وجود أعضاء الفريق لديهم العديد من المهام بالإضافة إلى المهام الرئيسية في المشروع ، لذا فهي مصفوفة  قوية.",
+            "question_title_fr": "Les membres de votre &eacute;quipe vous ont dit qu&#39;ils sont surcharg&eacute;s de nombreuses t&acirc;ches. Ils disent qu&#39;ils ont de nombreuses t&acirc;ches qui leur sont assign&eacute;es en plus des t&acirc;ches principales du projet. Vous leur avez promis que vous effaceriez les t&acirc;ches surcharg&eacute;es. Vous &ecirc;tes chef de projet en :</p>",
+            "feedback_fr": "il est clair que le chef de projet a le plein pouvoir de retirer les t&acirc;ches surcharg&eacute;es des membres de l&#39;&eacute;quipe, et parce que les membres de l&#39;&eacute;quipe ont beaucoup de t&acirc;ches en plus des t&acirc;ches principales du projet, alors est une Organisation &agrave; matrice solide .</p>",
+            "answers": [
+                {
+                    "id": 8433,
+                    "question_id": 2047,
+                    "answer": "Projectized Organization",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المنظمة المتوقعة",
+                        "answer_ar": "المنظمة المتوقعة",
+                        "answer_fr": "Organisation projectized ( Orientée projet)"
+                    }
+                },
+                {
+                    "id": 8432,
+                    "question_id": 2047,
+                    "answer": "Weak Matrix Organization",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "ماتريكس ضعيفة",
+                        "answer_ar": "ماتريكس ضعيفة",
+                        "answer_fr": "Organisation à matrice faible"
+                    }
+                },
+                {
+                    "id": 8434,
+                    "question_id": 2047,
+                    "answer": "Strong Matrix Organization",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مصفوفة قوية",
+                        "answer_ar": "مصفوفة قوية",
+                        "answer_fr": "Organisation à matrice solide"
+                    }
+                },
+                {
+                    "id": 8431,
+                    "question_id": 2047,
+                    "answer": "Balanced Matrix Organization",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المصفوفة المتوازنة",
+                        "answer_ar": "المصفوفة المتوازنة",
+                        "answer_fr": "Organisation à matrice Équilibrée"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2048,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "After a high-level management meeting, the manager chairing the meeting asks the Project Manager to document and communicate the action items to all the stakeholders. The Project Manager is part of a ______________ organization",
+            "feedback": "The Project Manager is part of a weak matrix organization and is playing the role of project expeditor. The project expeditor acts primarily as a staff assistant and communication coordinator. The expeditor personally cannot make or enforce decisions.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "بعد اجتماع إداري رفيع المستوى ، يطلب المدير الذي يترأس الاجتماع من مدير المشروع توثيق بنود العمل وإبلاغها لجميع المعنيين. مدير المشروع هو جزء من مؤسسة ______________",
+            "feedback_ar": "مدير المشروع هو جزء من منظمة مصفوفة ضعيفة ويعمل كدور منسق . يعمل منسق المشروع في المقام الأول كمساعد للموظفين ومنسق اتصالات. لا يستطيع المنسق شخصيًا اتخاذ القرارات أو تنفيذها.",
+            "question_title_fr": "Apr&egrave;s une r&eacute;union de management de haut niveau, le gestionnaire qui pr&eacute;side la r&eacute;union demande au chef de projet de documenter et de communiquer les &eacute;l&eacute;ments d&#39;action &agrave; toutes les parties prenantes. Le chef de projet fait partie d&#39;une organisation ______________</p>",
+            "feedback_fr": "Le chef de projet fait partie d&#39;une organisation matricielle faible et joue le r&ocirc;le d&#39;exp&eacute;diteur de projet. L&#39;exp&eacute;diteur du projet agit principalement en tant qu&#39;assistant du personnel et coordinateur de la communication. L&#39;exp&eacute;diteur ne peut personnellement prendre ou faire appliquer des d&eacute;cisions.</p>",
+            "answers": [
+                {
+                    "id": 8438,
+                    "question_id": 2048,
+                    "answer": "Weak Matrix",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مصفوفة ضعيفة",
+                        "answer_ar": "مصفوفة ضعيفة",
+                        "answer_fr": "Matrice faible (Weak Matrix)"
+                    }
+                },
+                {
+                    "id": 8436,
+                    "question_id": 2048,
+                    "answer": "Strong Matrix",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مصفوفة قوية",
+                        "answer_ar": "مصفوفة قوية",
+                        "answer_fr": "Matrice solide (Strong Matrix)"
+                    }
+                },
+                {
+                    "id": 8435,
+                    "question_id": 2048,
+                    "answer": "Tight Matrix",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مصفوفة ضيقة",
+                        "answer_ar": "مصفوفة ضيقة",
+                        "answer_fr": "Matrice serrée"
+                    }
+                },
+                {
+                    "id": 8437,
+                    "question_id": 2048,
+                    "answer": "Balanced Matrix",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مصفوفة متوازنة",
+                        "answer_ar": "مصفوفة متوازنة",
+                        "answer_fr": "Matrice équilibrée(Balanced Matrix)"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2049,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are always struggling with resource supply for your project as they are shared across various projects. Who should you escalate this issue to?",
+            "feedback": "Shared resources are usually administered by the PMO. Note that portfolio management (not listed as an option) is responsible to ensure resource supply in an organization, therefore, will also prioritize and allocate (plan) overall resources.[PMBOK 6th edition, Page 48]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت دائمًا تكافح من أجل توفير الموارد لمشروعك حيث يتم مشاركتها عبر مشاريع مختلفة. إلى من يجب أن تصعد هذه المشكلة؟",
+            "feedback_ar": "عادة ما يتم إدارة الموارد المشتركة من قبل مكتب إدارة المشاريع. لاحظ أن إدارة المحفظة (غير مدرجة كخيار) هي المسؤولة عن ضمان توفير الموارد في المنظمة ، وبالتالي ، فإنها ستحدد أيضًا الأولويات وتخصص (خطة) الموارد الإجمالية. \r\nكتاب البمبوك الاصدار السادس- صفحة رقم 48.",
+            "question_title_fr": "Vous avez toujours du mal &agrave; fournir des ressources pour votre projet, car elles sont partag&eacute;es entre divers projets. &Agrave; qui devez-vous escalader ce probl&egrave;me ce probl&egrave;me ?</p>",
+            "feedback_fr": "Les ressources partag&eacute;es sont g&eacute;n&eacute;ralement administr&eacute;es par le PMO. Notez que le management de portefeuille (non list&eacute; comme une option) est responsable d&#39;assurer l&#39;approvisionnement en ressources dans une organisation, par cons&eacute;quent, il va &eacute;galement prioriser et allouer (plan) les ressources globales.</p>",
+            "answers": [
+                {
+                    "id": 8439,
+                    "question_id": 2049,
+                    "answer": "The sponsor",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "راعى المشروع",
+                        "answer_ar": "راعى المشروع",
+                        "answer_fr": "Le sponsor"
+                    }
+                },
+                {
+                    "id": 8442,
+                    "question_id": 2049,
+                    "answer": "The organization's PMO",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مكتب إدارة المشروعات PMO",
+                        "answer_ar": "مكتب إدارة المشروعات PMO",
+                        "answer_fr": "Le PMO de l'organisation"
+                    }
+                },
+                {
+                    "id": 8441,
+                    "question_id": 2049,
+                    "answer": "The Procurement manager",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مدير المشتريات",
+                        "answer_ar": "مدير المشتريات",
+                        "answer_fr": "Le responsable d’approvisionnement ."
+                    }
+                },
+                {
+                    "id": 8440,
+                    "question_id": 2049,
+                    "answer": "The HR department",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "قسم الموارد البشرية",
+                        "answer_ar": "قسم الموارد البشرية",
+                        "answer_fr": "Le département HR"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2050,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Some of your project management peers are of the opinion that leadership and project management software usage skills are some of the important skills a project manager should have. As per PMI Talent Triangle. which of the below reflects all the competencies of a project manager?",
+            "feedback": "This is the correct answer as per PMI Talent Triangle.[PMBOK 6th edition, Page 56]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يرى بعض زملائك في إدارة المشروع أن مهارات استخدام برامج إدارة المشاريع والقيادة هي بعض المهارات المهمة التي يجب أن يتمتع بها مدير المشروع. حسب مثلث مواهب معهد إدارة المشاريع. أي مما يلي يعكس جميع كفاءات مدير المشروع؟",
+            "feedback_ar": "هذه هي الإجابة الصحيحة وفقًا لمثلث مواهب معهد إدارة المشاريع.\r\nكتاب البمبوك الاصدار السادس- صفحة رقم 56",
+            "question_title_fr": "Certains de vos pairs en management&nbsp;de projet sont d&#39;avis que les comp&eacute;tences en leadership et en utilisation de logiciels de management de projet font partie des comp&eacute;tences importantes qu&#39;un chef de projet devrait avoir. Selon le triangle des talents PMI,&nbsp;laquelle des r&eacute;ponses ci-dessous refl&egrave;te toutes les comp&eacute;tences d&#39;un chef de projet ?</p>",
+            "feedback_fr": "est la r&eacute;ponse correcte selon le PMI Talent Triangle(Triangle des talents du PMI)&nbsp;[PMBOK 6th edition, Page 56]</p>",
+            "answers": [
+                {
+                    "id": 8444,
+                    "question_id": 2050,
+                    "answer": "Project management, people management, Business and strategy",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إدارة المشاريع وإدارة الأفراد والأعمال والاستراتيجية",
+                        "answer_ar": "إدارة المشاريع وإدارة الأفراد والأعمال والاستراتيجية",
+                        "answer_fr": "Management du projet, gestion des personnes, business et stratégie"
+                    }
+                },
+                {
+                    "id": 8446,
+                    "question_id": 2050,
+                    "answer": "Technical project management, leadership , strategic and business management",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "الإدارة الفنية للمشاريع ، والقيادة ، والإدارة الاستراتيجية وإدارة الأعمال",
+                        "answer_ar": "الإدارة الفنية للمشاريع ، والقيادة ، والإدارة الاستراتيجية وإدارة الأعمال",
+                        "answer_fr": "Gestion de projets techniques, leadership, Management stratégique et organisationnel"
+                    }
+                },
+                {
+                    "id": 8445,
+                    "question_id": 2050,
+                    "answer": "Knowledge, performance, personality",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المعرفة والأداء والشخصية",
+                        "answer_ar": "المعرفة والأداء والشخصية",
+                        "answer_fr": "Connaissances, performances, personnalité"
+                    }
+                },
+                {
+                    "id": 8443,
+                    "question_id": 2050,
+                    "answer": "Management experience, process expertise, domain experience",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الخبرة الإدارية ، الخبرة العملية ، الخبرة في المجال",
+                        "answer_ar": "الخبرة الإدارية ، الخبرة العملية ، الخبرة في المجال",
+                        "answer_fr": "Expérience en management, expertise des processus, expérience du domaine"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2051,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Your organization's PMO is periodically asking for project artifacts from all projects and checking whether corporate standards of project management are being adhered to or not. They are also supportive in providing templates and guidelines related to project management when asked. Which type of PMO are we referring to here?",
+            "feedback": "Explanation: Though the PMO is assisting with templates and guidelines like a supportive PMO, they are playing the bigger role of a controlling PMO here.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يطلب مكتب إدارة المشاريع الخاص بمؤسستك بشكل دوري الحصول على نتائج المشروع من جميع المشاريع والتحقق مما إذا كان يتم الالتزام بمعايير الشركة الخاصة بإدارة المشاريع أم لا. كما أنها داعمة في توفير النماذج والمبادئ التوجيهية المتعلقة بإدارة المشروع عند الطلب. ما هو نوع مكتب إدارة المشاريع الذي نشير إليه هنا؟",
+            "feedback_ar": "المتحكمة الدعم وتتطلب الامتثال من خلال وسائل مختلفة. ودرجة التحكم التي  متحكِّمة. تقدم مكاتب إدارة المشاريع \r\nيقدمها هذا النوع من مكاتب إدارة المشاريع تكون معتدلة. وقد يشمل الامتثال ما يلي:\r\nاعتماد أطر أو منهجيات إدارة المشاريع ؛ -\r\nاستخدام قوالب وأشكال وأدوات محددة؛ -\r\nالتوافق مع أطر الحوكمة.",
+            "question_title_fr": "Le PMO de votre organisation demande p&eacute;riodiquement des artefacts de tous les projets et v&eacute;rifie si les standards de management de projet de l&#39;entreprise sont respect&eacute;es ou non. Ils soutiennent &eacute;galement en fournissant des mod&egrave;les et des lignes directrices li&eacute;s au management de projet lorsqu&#39;on leur demande. De quel type de PMO parlons-nous ici ?</p>",
+            "feedback_fr": "Explication : Bien que le PMO apporte son assistance &agrave; l&#39;aide de mod&egrave;les et de lignes directrices comme un PMO soutenant (Supportive), il joue ici un r&ocirc;le plus important d&#39;un PMO &nbsp;de Conformit&eacute; (controlling).</p>",
+            "answers": [
+                {
+                    "id": 8447,
+                    "question_id": 2051,
+                    "answer": "Governing PMO",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مسيطر",
+                        "answer_ar": "مسيطر",
+                        "answer_fr": "PMO de type Gouvernant"
+                    }
+                },
+                {
+                    "id": 8449,
+                    "question_id": 2051,
+                    "answer": "Directing PMO",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "موجه",
+                        "answer_ar": "موجه",
+                        "answer_fr": "PMO de type  Directif (Directing)"
+                    }
+                },
+                {
+                    "id": 8450,
+                    "question_id": 2051,
+                    "answer": "Controlling PMO",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "متحكم",
+                        "answer_ar": "متحكم",
+                        "answer_fr": "PMO de type  Conformité (Controlling)"
+                    }
+                },
+                {
+                    "id": 8448,
+                    "question_id": 2051,
+                    "answer": "Supporting PMO",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "داعم",
+                        "answer_ar": "داعم",
+                        "answer_fr": "PMO de type  Soutenant (Supporting )"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2052,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A customer is frequently asking for scope changes though a product vision and roadmap have been established at the start of the project. What type of development lifecycle is this likely to be?",
+            "feedback": "Explanation: Answer = B. Adaptive or agile lifecycle, as the scope is change driven. This is not a hybrid lifecycle as that is a mix of predictive and adaptive. The waterfall is another name for predictive.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "20",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يطلب العميل بشكل متكرر تغييرات النطاق على الرغم من وضع رؤية المنتج وخارطة الطريق في بداية المشروع. ما نوع دورة حياة التطوير التي يحتمل أن تكون؟",
+            "feedback_ar": "تفسير الاجابة : دورة حياة المتكيفة أو الرشيقة ، حيث أن النطاق يتغير باستمرار بناء على متطلبات العميل .",
+            "question_title_fr": "Un client demande fr&eacute;quemment des changements de p&eacute;rim&egrave;tre bien qu&#39;une vision du produit et une feuille de route aient &eacute;t&eacute; &eacute;tablies au d&eacute;but du projet. Quel type de cycle de d&eacute;veloppement est-il susceptible d&#39;&ecirc;tre ?</p>",
+            "feedback_fr": "Explication : R&eacute;ponse = B. Cycle de vie adaptatif ou agile, car le p&eacute;rim&egrave;tre est &nbsp;bas&eacute;s sur le changement (change-driven). Il ne s&#39;agit pas d&#39;un cycle de vie hybride, car est un m&eacute;lange de pr&eacute;dictif et d&#39;adaptatif. Le waterfall est un autre nom pour le pr&eacute;dictif.</p>",
+            "answers": [
+                {
+                    "id": 8454,
+                    "question_id": 2052,
+                    "answer": "Adaptive",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "المتكيفة",
+                        "answer_ar": "المتكيفة",
+                        "answer_fr": "Adaptative"
+                    }
+                },
+                {
+                    "id": 8452,
+                    "question_id": 2052,
+                    "answer": "Waterfall",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الشلالى",
+                        "answer_ar": "الشلالى",
+                        "answer_fr": "Waterfall"
+                    }
+                },
+                {
+                    "id": 8451,
+                    "question_id": 2052,
+                    "answer": "Predictive",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "التنبؤية",
+                        "answer_ar": "التنبؤية",
+                        "answer_fr": "Prédictive"
+                    }
+                },
+                {
+                    "id": 8453,
+                    "question_id": 2052,
+                    "answer": "Hybrid",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "هجين",
+                        "answer_ar": "هجين",
+                        "answer_fr": "Hybride"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2053,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A collection of related projects that are managed in a coordinated way to obtain benefits is called a:",
+            "feedback": "Explanation: Answer = . Program. The PMBOK Guide defines a Program as: \"a group of related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually\".",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "مجموعة المشاريع ذات الصلة التي تتم إدارتها بطريقة منسقة للحصول على الفوائد . هذا التعريف يسمى ؟",
+            "feedback_ar": "البرنامج هو  مجموعة المشاريع ذات الصلة التي تتم إدارتها بطريقة منسقة للحصول على الفوائد.",
+            "question_title_fr": "Un ensemble de projets&nbsp;connexes qui sont g&eacute;r&eacute;s de mani&egrave;re coordonn&eacute;e afin d&rsquo;obtenir des b&eacute;n&eacute;fices&nbsp;s&#39;appelle un :</p>",
+            "feedback_fr": "Explication : R&eacute;ponse = Programme. Le Guide PMBOK d&eacute;finit un Programme comme : &quot;Un programme d&eacute;signe un groupe de projets, d&rsquo;autres programmes et d&rsquo;activit&eacute;s de programme apparent&eacute;s dont le management est coordonn&eacute; afin d&rsquo;obtenir des b&eacute;n&eacute;fices qui ne seraient pas possibles en les traitant isol&eacute;ment.&quot;</p>",
+            "answers": [
+                {
+                    "id": 8456,
+                    "question_id": 2053,
+                    "answer": "Portfolio",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "محفظة",
+                        "answer_ar": "محفظة",
+                        "answer_fr": "Portefeuille"
+                    }
+                },
+                {
+                    "id": 8458,
+                    "question_id": 2053,
+                    "answer": "Program",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "برنامج",
+                        "answer_ar": "برنامج",
+                        "answer_fr": "Programme"
+                    }
+                },
+                {
+                    "id": 8457,
+                    "question_id": 2053,
+                    "answer": "Suite",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "فندق",
+                        "answer_ar": "فندق",
+                        "answer_fr": "Suite"
+                    }
+                },
+                {
+                    "id": 8455,
+                    "question_id": 2053,
+                    "answer": "Colocation",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "وحدة الموقع.",
+                        "answer_ar": "وحدة الموقع.",
+                        "answer_fr": "Colocation"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2054,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "The Project Manager to build a concrete waterfall at a theme park likes to plan everything upfront and follow the waterfall method. However, the customer doesn't want everything fixed from the beginning, as she may change her mind in a number of areas once the project is underway, and needs to be sure that the Project Manager can allow for flow-on effects. What sort of project life cycle should the Project Manager use?",
+            "feedback": "Explanation: Answer = . Adaptive. \"In an adaptive or agile life cycle, the deliverables are developed over multiple iterations where a detailed scope is defined and approved for each iteration when it begins\".  PMBOK Guide pg131",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "انت مدير المشروع لبناء شلال خرساني في مدينة ملاهي وسوف تتبع طريقة الشلال. ومع ذلك ، لا يرغب العميل في إصلاح كل شيء من البداية ، حيث يمكنه تغيير رأيه في عدد من المجالات بمجرد بدء المشروع ، ويحتاج إلى التأكد من أن مدير المشروع يمكنه السماح بالتدفق على التأثيرات. ما نوع دورة حياة المشروع التي يجب على مدير المشروع استخدامها؟",
+            "feedback_ar": "التفسير: الجواب =. دورة الحياة المتكيفة . في دورة حياة المتكيفة أو رشيقة ، يتم تطوير المخرجات عبر تكرارات متعددة حيث يتم تحديد نطاق مفصل والموافقة عليه لكل تكرار عند البدء .\r\nكتاب البمبوك الاصدار السادس- صفحة رقم 19.",
+            "question_title_fr": "Le chef de projet pour construire une cascade en b&eacute;ton dans un parc d&#39;attractions&nbsp;aime tout planifier &agrave; l&#39;avance et suivre la m&eacute;thode Waterfall. Cependant, le client ne veut pas&nbsp;tout fix&eacute;es depuis le d&eacute;but, car elle peut changer d&#39;avis dans un certain nombre de domaines une fois le projet en cours&nbsp;et doit s&#39;assurer que le chef de projet peut permettre des effets d&#39;&eacute;coulement.&nbsp;Quel genre de cycle de vie du projet doit utiliser le chef de projet ?</p>",
+            "feedback_fr": "Explication : R&eacute;ponse = . adaptatif. &quot;Dans le cas d&rsquo;un cycle de vie adaptatif ou agile, les livrables sont&nbsp;&eacute;labor&eacute;s en de multiples it&eacute;rations au cours desquelles un p&eacute;rim&egrave;tre est d&eacute;taill&eacute; au d&eacute;but de ladite it&eacute;ration&quot;.&nbsp;PMBOK Guide pg131</p>",
+            "answers": [
+                {
+                    "id": 8459,
+                    "question_id": 2054,
+                    "answer": "Tacit",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "دورة الحياه الضمنية",
+                        "answer_ar": "دورة الحياه الضمنية",
+                        "answer_fr": "Tacite"
+                    }
+                },
+                {
+                    "id": 8460,
+                    "question_id": 2054,
+                    "answer": "Explicit",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "دورة الحياه الصريحة",
+                        "answer_ar": "دورة الحياه الصريحة",
+                        "answer_fr": "Explicite"
+                    }
+                },
+                {
+                    "id": 8461,
+                    "question_id": 2054,
+                    "answer": "Predictive",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "دورة الحياة التنبؤية",
+                        "answer_ar": "دورة الحياة التنبؤية",
+                        "answer_fr": "Prédictif"
+                    }
+                },
+                {
+                    "id": 8462,
+                    "question_id": 2054,
+                    "answer": "Adaptive",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "دورة الحياة المتكيفة",
+                        "answer_ar": "دورة الحياة المتكيفة",
+                        "answer_fr": "Adaptatif"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2055,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You have recently joined an organization as the Marketing Manager. You have been told that a new product has just been created and you will need to get it into the market within the next month. This means press released, TV, Radio, Internet and newspaper adverts, a big launch, with at least one local celebrity. You request a meeting with a project manager for advice on initiating the project, but you are told the organization doesn't have a Project Manager, it just has a part-time Project Coordinator. What is the organizational structure of the organization?",
+            "feedback": "Explanation: Answer = . Balanced matrix. (See Table 2-1. Influences of Organizational Structures on Projects. PMBOK Guide pg47).",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "لقد انضممت مؤخرًا إلى مؤسسة كمدير تسويق. لقد تم إخبارك أنه تم إنشاء منتج جديد وستحتاج إلى طرحه في السوق في غضون الشهر المقبل. وهذا يعني الإعلان الصحفي ، والتليفزيون ، والراديو ، والإنترنت ، وإعلانات الصحف ، إطلاقًا كبيرًا ، مع أحد المشاهير المحليين على الأقل. تطلب اجتماعًا مع مدير المشروع للحصول على المشورة بشأن بدء المشروع ، ولكن تم إخبارك أن المنظمة ليس لديها مدير مشروع ، بل لديها فقط منسق مشروع بدوام جزئي. ما هو الهيكل التنظيمي للمنظمة؟",
+            "feedback_ar": "التفسير: الجواب =. مصفوفة متوازنة. (انظر الجدول 2-1. تأثيرات الهياكل التنظيمية على المشاريع. دليل PMBOK ص 47).",
+            "question_title_fr": "Vous avez r&eacute;cemment rejoint une organisation en tant que responsable marketing. On vous a dit qu&#39;un nouveau produit vient d&#39;&ecirc;tre cr&eacute;&eacute; et que vous devrez le mettre sur le march&eacute; dans le mois qui suit. Cela signifie des communiqu&eacute;s de presse, TV,&nbsp;Radio, sur Internet et dans les journaux, un grand lancement, avec au moins une c&eacute;l&eacute;brit&eacute; locale. Vous demandez un rendez-vous avec un chef de projet pour obtenir des conseils sur le lancement du projet, mais on vous dit que l&#39;organisation n&#39;a pas de chef de projet, elle a juste un coordinateur de projet &agrave; temps partiel. Quelle est la structure organisationnelle de l&#39;organisation?</p>",
+            "feedback_fr": "Explication : R&eacute;ponse = . matrice &eacute;quilibr&eacute;e. (Voir le tableau 2-1. Influences des structures organisationnelles sur les projets.&nbsp;PMBOK Guide pg47).</p>",
+            "answers": [
+                {
+                    "id": 8465,
+                    "question_id": 2055,
+                    "answer": "PMO",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مكتب إدارة المشاريع",
+                        "answer_ar": "مكتب إدارة المشاريع",
+                        "answer_fr": "PMO"
+                    }
+                },
+                {
+                    "id": 8466,
+                    "question_id": 2055,
+                    "answer": "Balanced matrix",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مصفوفة متوازنة",
+                        "answer_ar": "مصفوفة متوازنة",
+                        "answer_fr": "Matrice équilibrée(Balanced Matrix)"
+                    }
+                },
+                {
+                    "id": 8463,
+                    "question_id": 2055,
+                    "answer": "Project-oriented",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "موجه نحو المشروع",
+                        "answer_ar": "موجه نحو المشروع",
+                        "answer_fr": "Orientée projet \n(Project-oriented)"
+                    }
+                },
+                {
+                    "id": 8464,
+                    "question_id": 2055,
+                    "answer": "Strong matrix",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مصفوفة قوية",
+                        "answer_ar": "مصفوفة قوية",
+                        "answer_fr": "Matrice solide (Strong Matrix)"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2056,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are working with a couple of research associates to determine if implementing a WiFi system in the neighborhood is going to benefit residents. As part of this effort, you will be working with authorities to get related government documents. Also, you will do an extensive survey on how people will be using the system and create reports from the survey. What do you call this effort?",
+            "feedback": "Every project generates a unique product, service, or result. This is a project because it is generating a unique result (knowledge and documentation) and it is temporary. Although not stated explicitly in the question description, the project time-constrained or there is a timeline wherein project tasks will be considered completed (i.e. WiFi system implemented, obtained government-related documents, survey complete, and reports created.)",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت تعمل مع اثنين من شركاء البحث لتحديد ما إذا كان تطبيق نظام الواى فاى في الحي سيفيد السكان. كجزء من هذا الجهد ، ستعمل مع السلطات للحصول على المستندات الحكومية ذات الصلة. أيضًا ، ستقوم بإجراء مسح شامل حول كيفية استخدام الأشخاص للنظام وإنشاء تقارير من الاستطلاع. ماذا تسمي هذا الجهد؟",
+            "feedback_ar": "يولد كل مشروع منتجًا أو خدمة أو نتيجة فريدة. هذا مشروع لأنه يولد نتيجة فريدة (المعرفة والتوثيق) وهو مؤقت. على الرغم من عدم ذكر ذلك صراحة في وصف السؤال ، فإن وقت المشروع مقيد أو يوجد جدول زمني حيث سيتم اعتبار مهام المشروع مكتملة (على سبيل المثال ، تم تنفيذ نظام الواى فاى ، والحصول على المستندات المتعلقة بالحكومة ، واستكمال المسح ، وإنشاء التقارير.)",
+            "question_title_fr": "Vous travaillez avec un couple d&#39;associ&eacute;s de recherche pour d&eacute;terminer si la mise en place d&#39;un syst&egrave;me WiFi dans le quartier est b&eacute;n&eacute;fique pour les r&eacute;sidents. Dans le cadre de cet effort, vous travaillerez avec les autorit&eacute;s pour obtenir des documents gouvernementaux connexes. Vous allez &eacute;galement mener une enqu&ecirc;te (survey) approfondie sur la fa&ccedil;on dont les gens utiliseront le syst&egrave;me et cr&eacute;er des rapports &agrave; partir de cette enqu&ecirc;te. Comment appelez-vous cet effort ?</p>",
+            "feedback_fr": "Chaque projet g&eacute;n&egrave;re un produit, un service ou un r&eacute;sultat unique. Il s&#39;agit d&#39;un projet car il g&eacute;n&egrave;re un r&eacute;sultat unique (connaissances et documentation) et il est temporaire. Bien que cela ne soit pas indiqu&eacute; explicitement dans la description de la question, le projet est limit&eacute; dans le temps ou il existe un calendrier dans lequel les t&acirc;ches du projet seront consid&eacute;r&eacute;es comme achev&eacute;es (est-&agrave;-dire syst&egrave;me WiFi mis en &oelig;uvre, documents gouvernementaux obtenus, enqu&ecirc;te termin&eacute;e et rapports cr&eacute;&eacute;s).</p>",
+            "answers": [
+                {
+                    "id": 8467,
+                    "question_id": 2056,
+                    "answer": "A Survey",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "استبيان",
+                        "answer_ar": "استبيان",
+                        "answer_fr": "Une enquête (a Survey)"
+                    }
+                },
+                {
+                    "id": 8470,
+                    "question_id": 2056,
+                    "answer": "A Project",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مشروع",
+                        "answer_ar": "مشروع",
+                        "answer_fr": "Un projet"
+                    }
+                },
+                {
+                    "id": 8468,
+                    "question_id": 2056,
+                    "answer": "A Research Study",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "دراسة بحثية",
+                        "answer_ar": "دراسة بحثية",
+                        "answer_fr": "Une étude de recherche"
+                    }
+                },
+                {
+                    "id": 8469,
+                    "question_id": 2056,
+                    "answer": "An Operation",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "عملية",
+                        "answer_ar": "عملية",
+                        "answer_fr": "Une opération"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2057,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Your project team is making significant progress. You want to prepare Work Performance Information and distribute it to the stakeholders so that they are aware of project progress. Which of the following can be included as Work Performance Information?</p>",
+            "feedback": "Work performance information. The performance data collected from various controlling processes analyzed in context and integrated based on relationships across areas. Examples of performance information are status of deliverables, implementation status for change requests, and forecast estimates to complete.[PMBOK 6th edition, Page 26]</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يحرز فريق مشروعك تقدمًا كبيرًا. تريد إعداد معلومات أداء العمل وتوزيعها على المعنيين بالمشروع حتى يكونوا على دراية بتقدم المشروع. أي مما يلي يمكن تضمينه كمعلومات أداء العمل؟</p>",
+            "feedback_ar": "معلومات أداء العمل. بيانات الأداء التي تم جمعها من عمليات التحكم المختلفة ، وتحليلها في السياق والمتكاملة على أساس العلاقات عبر المناطق. أمثلة على معلومات الأداء هي حالة الإنجازات ، وحالة التنفيذ لطلبات التغيير ، والتقديرات المتوقعة لإكمالها. كتاب البمبوك الاصدار السادس- صفحة رقم 26.</p>",
+            "question_title_fr": "Votre &eacute;quipe de projet progresse de mani&egrave;re significative. Vous souhaitez pr&eacute;parer des Information sur la performance d&rsquo;ex&eacute;cution (Work Performance Information) et les distribuer aux parties prenantes afin qu&#39;elles soient au courant de l&#39;avancement du projet. Lequel des &eacute;l&eacute;ments suivants peut &ecirc;tre inclus en tant qu&#39;information sur la performance d&rsquo;ex&eacute;cution (Work Performance Information)?&nbsp;</p>",
+            "feedback_fr": "Information sur la performance d&rsquo;ex&eacute;cution. Donn&eacute;es de performance recueillies &agrave; travers les divers processus de ma&icirc;trise qui sont analys&eacute;es dans leur contexte et int&eacute;gr&eacute;es sur la base des d&eacute;pendances entre les domaines. Elles comprennent l&rsquo;&eacute;tat des livrables, l&rsquo;&eacute;tat de l&rsquo;application des demandes de changement et les co&ucirc;ts estim&eacute;s pour ach&egrave;vement.&nbsp;[PMBOK 6th edition, Page 26]</p>",
+            "answers": [
+                {
+                    "id": 8474,
+                    "question_id": 2057,
+                    "answer": "Status of Deliverables",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "حالة التسليمات",
+                        "answer_ar": "حالة التسليمات",
+                        "answer_fr": "L'État des livrables"
+                    }
+                },
+                {
+                    "id": 8473,
+                    "question_id": 2057,
+                    "answer": "Actual Costs",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "التكاليف الفعلية",
+                        "answer_ar": "التكاليف الفعلية",
+                        "answer_fr": "Les coûts réels"
+                    }
+                },
+                {
+                    "id": 8471,
+                    "question_id": 2057,
+                    "answer": "Number of Team Members",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "عدد أعضاء الفريق",
+                        "answer_ar": "عدد أعضاء الفريق",
+                        "answer_fr": "Nombre de membres de l'équipe"
+                    }
+                },
+                {
+                    "id": 8472,
+                    "question_id": 2057,
+                    "answer": "Number of Defects",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "عدد العيوب",
+                        "answer_ar": "عدد العيوب",
+                        "answer_fr": "Nombre de défauts"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2058,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Which of the following best describes the role of a project sponsor?",
+            "feedback": "The project sponsor is not responsible for managing the project nor the quality of deliverables; it is the role of the project manager. While the sponsor can aid in identifying key stakeholders, the key area a sponsor plays a part in is providing funding. The sponsor provides funding directly or indirectly and is responsible for approving or denying the budget. The project sponsor is also generally the one who approves the Project Charter, but that is not mentioned in the question.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أي مما يلي يصف بشكل أفضل دور راعي المشروع؟",
+            "feedback_ar": "راعي المشروع غير مسؤول عن إدارة المشروع أو جودة المخرجات ؛ إنه دور مدير المشروع. بينما يمكن للراعي المساعدة في تحديد المعنيين الرئيسيين ، فإن المجال الرئيسي الذي يلعبه الراعي هو توفير التمويل. يوفر الراعي التمويل بشكل مباشر أو غير مباشر وهو مسؤول عن الموافقة على الميزانية أو رفضها. راعي المشروع هو أيضًا بشكل عام الشخص الذي يوافق على ميثاق المشروع ، لكن هذا لم يرد ذكره في السؤال.",
+            "question_title_fr": "Lequel des &eacute;nonc&eacute;s suivants d&eacute;crit le mieux le r&ocirc;le d&#39;un sponsor de projet ?</p>",
+            "feedback_fr": "Le sponsor du projet n&#39;est pas responsable du management du projet ni de la qualit&eacute; des livrables ; est le r&ocirc;le du chef de projet. Bien que le sponsor puisse aider &agrave; identifier les principales parties prenantes, son r&ocirc;le principal est de fournir le financement. Le sponsor fournit le financement directement ou indirectement et est responsable de l&#39;approbation ou du refus du budget. Le sponsor du projet est aussi g&eacute;n&eacute;ralement celui qui approuve la charte du projet, mais cela n&#39;est pas mentionn&eacute; dans la question.</p>",
+            "answers": [
+                {
+                    "id": 8477,
+                    "question_id": 2058,
+                    "answer": "Project Sponsor is responsible for identifying key stakeholders",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "راعي المشروع مسؤول عن تحديد المعنيين الرئيسيين.",
+                        "answer_ar": "راعي المشروع مسؤول عن تحديد المعنيين الرئيسيين.",
+                        "answer_fr": "Le sponsor de projet est chargé d'identifier les principales parties prenantes"
+                    }
+                },
+                {
+                    "id": 8476,
+                    "question_id": 2058,
+                    "answer": "Project Sponsor is responsible for managing the quality of deliverables",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "راعي المشروع مسؤول عن إدارة جودة التسليمات.",
+                        "answer_ar": "راعي المشروع مسؤول عن إدارة جودة التسليمات.",
+                        "answer_fr": "Le sponsor de projet est responsable de la gestion de la qualité des livrables"
+                    }
+                },
+                {
+                    "id": 8475,
+                    "question_id": 2058,
+                    "answer": "Project Sponsor is responsible for managing the project",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "راعي المشروع هو المسؤول عن إدارة المشروع",
+                        "answer_ar": "راعي المشروع هو المسؤول عن إدارة المشروع",
+                        "answer_fr": "Le sponsor de projet est responsable du management du projet"
+                    }
+                },
+                {
+                    "id": 8478,
+                    "question_id": 2058,
+                    "answer": "Project Sponsor is responsible for providing funding for the project",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "راعي المشروع مسؤول عن توفير التمويل للمشروع.",
+                        "answer_ar": "راعي المشروع مسؤول عن توفير التمويل للمشروع.",
+                        "answer_fr": "Le sponsor de projet est responsable de fournir le financement du projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2059,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You have been appointed a project manager within an information systems organization. You are not aware of the organization&rsquo;s policies and procedures. If you want to know more about the organization&rsquo;s general issues management procedures, which of the following should you review?</p>",
+            "feedback": "Organizational process assets are the plans, processes, policies, procedures, and knowledge bases specific to and used by the performing organization. They include any artifact, practice, or knowledge from any or all of the organizations involved in the project that can be used to perform or govern the project. The process assets also include the organization&rsquo;s knowledge bases such as lessons learned and historical information.</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "لقد تم تعيينك مدير مشروع داخل منظمة نظم المعلومات. أنت لست على دراية بسياسات وإجراءات المنظمة. إذا كنت تريد معرفة المزيد عن إجراءات إدارة المشكلات العامة في المنظمة ، فأي مما يلي يجب عليك مراجعته؟</p>",
+            "feedback_ar": "أصول العملية التنظيمية هي الخطط والعمليات والسياسات والإجراءات وقواعد المعرفة الخاصة بالمنظمة المنفذة والمستخدمة. وهي تشمل أي قطعة أثرية أو ممارسة أو معرفة من أي أو كل المنظمات المشاركة في المشروع والتي يمكن استخدامها لأداء أو إدارة المشروع. تتضمن أصول العملية أيضًا قواعد المعرفة الخاصة بالمنظمة مثل الدروس المستفادة والمعلومات التاريخية.</p>",
+            "question_title_fr": "Vous avez &eacute;t&eacute; nomm&eacute; chef de projet au sein d&#39;une organisation de syst&egrave;mes d&#39;information. Vous ne connaissez pas les politiques et proc&eacute;dures de l&#39;organisation. Si vous voulez en savoir plus sur les proc&eacute;dures g&eacute;n&eacute;rales de gestion des probl&egrave;mes de l&#39;organisation, lesquels des&nbsp;suivants devez-vous consulter ?</p>",
+            "feedback_fr": "Les actifs organisationnels (OPA)&nbsp;comprennent les plans, processus, politiques internes, proc&eacute;dures et bases de connaissances sp&eacute;cifiques et utilis&eacute;s par l&rsquo;organisation r&eacute;alisatrice. Ces actifs organisationnels influencent le management du projet. Ils comprennent tout objet, pratique ou connaissance provenant de toutes les organisations r&eacute;alisatrices participant au projet et qui peuvent &ecirc;tre utilis&eacute;s pour r&eacute;aliser ou r&eacute;gir le projet. Ils comprennent &eacute;galement les retours d&rsquo;exp&eacute;rience de projets ant&eacute;rieurs et les donn&eacute;es historiques de l&rsquo;organisation.</p>",
+            "answers": [
+                {
+                    "id": 8479,
+                    "question_id": 2059,
+                    "answer": "Issue Log",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سجل الاشكالات.",
+                        "answer_ar": "سجل الاشكالات.",
+                        "answer_fr": "journal des points à traiter (issue log)"
+                    }
+                },
+                {
+                    "id": 8481,
+                    "question_id": 2059,
+                    "answer": "Enterprise environmental factors ( EEF)",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "العوامل المحيطة بالمشروع (EEF)",
+                        "answer_ar": "العوامل المحيطة بالمشروع (EEF)",
+                        "answer_fr": "Facteurs environnementaux de \nl’organisation EEF (Enterprise environmental factors)"
+                    }
+                },
+                {
+                    "id": 8482,
+                    "question_id": 2059,
+                    "answer": "Organizational Process Assets ( OPA )",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "أصول عمليات المؤسسة . (OPA)",
+                        "answer_ar": "أصول عمليات المؤسسة . (OPA)",
+                        "answer_fr": "Actifs organisationnels (Organizational process assets/ OPA)"
+                    }
+                },
+                {
+                    "id": 8480,
+                    "question_id": 2059,
+                    "answer": "Project Management Plan",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "خطة إدارة المشروع",
+                        "answer_ar": "خطة إدارة المشروع",
+                        "answer_fr": "Plan de management du projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2060,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A project manager is leading a project to design and develop a new cutting edge computer system, which is in the second of five phases. The project is running behind schedule and significantly over budget due to a force majeure. The project is being conducted internally to maintain control over the proprietary technology which will provide a competitive advantage. The project has reached a phase gate. What is the purpose of performing the phase gate?",
+            "feedback": "A phase gate is a review point at the end of a phase to determine if the project will continue to the succeeding phase, end the project, repeat the phase, or continue with some modifications. The business documents and project charter are needed to determine whether or not the project should progress to the next phase.( PMBOK Guide 6th Edition, page 21 )",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يقود مدير المشروع مشروعًا لتصميم وتطوير نظام كمبيوتر متطور جديد ، والذي يقع في المرحلة الثانية من خمس مراحل. يتأخر المشروع عن الجدول الزمني ويتجاوز الميزانية بشكل كبير بسبب قوة قاهرة. يتم تنفيذ المشروع داخليًا للحفاظ على السيطرة على التكنولوجيا المسجلة الملكية والتي ستوفر ميزة تنافسية. وصل المشروع إلى بوابة المرحلة. ما هو الغرض من تنفيذ بوابة المرحلة؟",
+            "feedback_ar": "بوابة المرحلة هي نقطة مراجعة في نهاية المرحلة لتحديد ما إذا كان المشروع سيستمر إلى المرحلة التالية ، أو إنهاء المشروع ، أو تكرار المرحلة ، أو الاستمرار مع بعض التعديلات. وثائق العمل وميثاق المشروع مطلوبة لتحديد ما إذا كان المشروع يجب أن يتقدم إلى المرحلة التالية أم لا . \r\nكتاب البمبوك الاصدار السادس- صفحة رقم 21",
+            "question_title_fr": "Un chef de projet dirige un projet pour concevoir et d&eacute;velopper un nouveau syst&egrave;me informatique de pointe, qui en est &agrave; la deuxi&egrave;me phase des cinq.&nbsp;Le projet est en retard sur l&#39;&eacute;ch&eacute;ancier et&nbsp;largement en dessus du budget&nbsp;en raison d&#39;un cas de force majeure.&nbsp;Le projet est men&eacute; en interne pour maintenir le contr&ocirc;le sur la technologie propri&eacute;taire qui offrira un avantage concurrentiel.&nbsp;Le projet a atteint une Porte de phase (Phase Gate).&nbsp;Quel est le but d&#39;effectuer la&nbsp;Porte de phase (Phase Gate)?</p>",
+            "feedback_fr": "Porte de phase / Phase Gate. Revue en fin de phase au cours de laquelle la d&eacute;cision est prise de passer &agrave; la phase suivante, de continuer en apportant des changements ou de mettre fin &agrave; un projet.&nbsp;&nbsp;Les documents business et la charte du projet sont n&eacute;cessaires pour d&eacute;terminer si le projet doit ou non passer &agrave; la phase suivante.( PMBOK Guide 6th Edition, page 21 )</p>",
+            "answers": [
+                {
+                    "id": 8484,
+                    "question_id": 2060,
+                    "answer": "Determine how many resources are required to complete the project according to the project baseline",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تحديد عدد الموارد المطلوبة لإكمال المشروع وفقًا لخط الأساس للمشروع",
+                        "answer_ar": "تحديد عدد الموارد المطلوبة لإكمال المشروع وفقًا لخط الأساس للمشروع",
+                        "answer_fr": "Déterminer combien de ressources sont nécessaires pour terminer le projet en fonction de la référence de base (baseline)"
+                    }
+                },
+                {
+                    "id": 8486,
+                    "question_id": 2060,
+                    "answer": "The project’s performance is compared to the business documents to determine if the project should be Continue to the next phase, End the project, or Repeat the phase",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "تتم مقارنة أداء المشروع بوثائق أعمال المشروع لتحديد ما إذا كان المشروع يجب أن يستمر إلى المرحلة التالية أو إنهاء المشروع أو كرر المرحلة",
+                        "answer_ar": "تتم مقارنة أداء المشروع بوثائق أعمال المشروع لتحديد ما إذا كان المشروع يجب أن يستمر إلى المرحلة التالية أو إنهاء المشروع أو كرر المرحلة",
+                        "answer_fr": "Les performances du projet sont comparées aux documents business afin de déterminer si le projet devrait être passer à la phase suivante, mettre fin au projet, ou Répéter la phase"
+                    }
+                },
+                {
+                    "id": 8483,
+                    "question_id": 2060,
+                    "answer": "Adjust the schedule and cost baselines based on past performance",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "ضبط الجدول الزمنى وأسس التكلفة بناءً على الأداء السابق",
+                        "answer_ar": "ضبط الجدول الزمنى وأسس التكلفة بناءً على الأداء السابق",
+                        "answer_fr": "Ajuster les référence de base des coûts et de l'échéancier (schedule and cost baselines) en fonction des performances passées"
+                    }
+                },
+                {
+                    "id": 8485,
+                    "question_id": 2060,
+                    "answer": "Obtain customer acceptance of project deliverables",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الحصول على قبول العميل لتسليمات المشروع",
+                        "answer_ar": "الحصول على قبول العميل لتسليمات المشروع",
+                        "answer_fr": "Obtenir l'acceptation par le client des livrables du projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2061,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "<span style=\"font-size:20px\"><strong>The business case documents the business needs and the cost-benefit analysis that justifies the project. Which of the following best describes the responsibility of the project manager within the Project business case?</strong></span></p>",
+            "feedback": "The project manager does not update or modify the business documents since they are not project documents; however, the project manager may make recommendations to keep the project business case in alignment with the goals and objectives of the organization. [PMBOK 6th edition, Page 78]</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "25",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "<span style=\"font-size:20px\"><strong>توثق دراسة الجدوى احتياجات العمل وتحليل التكلفة مقابل المنفعة الذي يبرر المشروع. أي مما يلي يصف بشكل أفضل مسؤولية مدير المشروع ضمن دراسة جدوى المشروع؟</strong></span></p>",
+            "feedback_ar": "لا يقوم مدير المشروع بتحديث أو تعديل مستندات العمل لأنها ليست مستندات مشروع ؛ ومع ذلك ، قد يقدم مدير المشروع توصيات للحفاظ على حالة عمل المشروع متوافقة مع أهداف وغايات المنظمة. كتاب البمبوك الاصدار السادس- صفحة رقم 78.</p>",
+            "question_title_fr": "Le business case documente les besoins de l&rsquo;organisation et l&rsquo;analyse co&ucirc;t-b&eacute;n&eacute;fice justifiant le projet. Lequel des &eacute;nonc&eacute;s suivants d&eacute;crit le mieux la responsabilit&eacute; du chef de projet dans le business case du projet ?</p>",
+            "feedback_fr": "Le chef de projet ne met pas &agrave; jour ou ne modifie pas les documents business puisqu&#39;il ne s&#39;agit pas de documents de projet ; toutefois, le chef de projet peut faire des recommandations pour que le business case du projet soit align&eacute; avec les buts et les objectifs de l&#39;organisation.&nbsp;[PMBOK 6th edition, Page 78]</p>",
+            "answers": [
+                {
+                    "id": 8488,
+                    "question_id": 2061,
+                    "answer": "Making changes on the business case if necessary",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إجراء تغييرات على دراسة الجدوى إذا لزم الأمر",
+                        "answer_ar": "إجراء تغييرات على دراسة الجدوى إذا لزم الأمر",
+                        "answer_fr": "Apporter des changements au business case si nécessaire"
+                    }
+                },
+                {
+                    "id": 8487,
+                    "question_id": 2061,
+                    "answer": "Update the business case at the end of each phase",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تحديث دراسة الجدوى في نهاية كل مرحلة",
+                        "answer_ar": "تحديث دراسة الجدوى في نهاية كل مرحلة",
+                        "answer_fr": "Mettre à jour le business case à la fin de chaque phase"
+                    }
+                },
+                {
+                    "id": 8489,
+                    "question_id": 2061,
+                    "answer": "Development of the project business case",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تطوير دراسة الجدوى للمشروع",
+                        "answer_ar": "تطوير دراسة الجدوى للمشروع",
+                        "answer_fr": "Développement du business case du projet"
+                    }
+                },
+                {
+                    "id": 8490,
+                    "question_id": 2061,
+                    "answer": "The project manager may make recommendations to keep the project business case in alignment with the goals and objectives of the organization.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "قد يقدم مدير المشروع توصيات للحفاظ على دراسة الجدوى تكون متوافقة مع أهداف وغايات المؤسسة.",
+                        "answer_ar": "قد يقدم مدير المشروع توصيات للحفاظ على دراسة الجدوى تكون متوافقة مع أهداف وغايات المؤسسة.",
+                        "answer_fr": "Le chef de projet peut présenter des recommandations pour maintenir le business case du projet en alignement avec les buts et objectifs de l'organisation."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2062,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are working as a part-time manager at a weak matrix organization. Your functional manager adds to your workload by declaring you the project manager for a new business idea. After reviewing the business case, you understand new personnel will need to be hired to execute the project. What constraint, if any, will you be operating under in terms of hiring additional staff?",
+            "feedback": "Knowing the differences between the types of organizational structures is necessary to answer this question correctly.\r\nUnderstanding your role as a project manager in different organizational structures plays an important part in your project\r\nmanagement responsibilities and the decisions you have to make. The project manager's role in a weak matrix\r\norganization is part-time and done as part of another job and not a designated job role like a coordinator. In such an\r\norganization, the project manager's authority over resources is low, and it is the functional manager who takes on the\r\nresponsibility of managing resources. Therefore, if you need additional staff for your project, you will be operating under\r\nthe constraint that hiring staff is typically done by the functional managers who are responsible for most of the project\r\nresources. (PMBOK Guide) – Sixth Edition,  Page(s) 47",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "تعمل بدوام جزئي في مؤسسة مصفوفة ضعيفة. يضيف لك مديرك الوظيفي أعمال جديدة بالاضافة الى الاعمال التى تعمل بها ويخبرك بأنك مدير لمشروع جديد . بعد مراجعة دراسة الجدوى ، فأنت تدرك أنه يجب تعيين موظفين جدد لتنفيذ المشروع. ما هو القيد ، إن وجد ، الذي ستعمل بموجبه فيما يتعلق بتعيين موظفين إضافيين؟",
+            "feedback_ar": "معرفة الاختلافات بين أنواع الهياكل التنظيمية ضروري للإجابة على هذا السؤال بشكل صحيح. يلعب فهم دورك كمدير مشروع في الهياكل التنظيمية المختلفة دورًا مهمًا في مسؤوليات إدارة المشروع والقرارات التي يتعين عليك اتخاذها. دور مدير المشروع في منظمة مصفوفة ضعيفة هو بدوام جزئي ويتم القيام به كجزء من وظيفة أخرى وليس دور وظيفي معين مثل المنسق. في مثل هذه المنظمة ، تكون سلطة مدير المشروع على الموارد منخفضة ، والمدير الوظيفي هو الذي يتولى مسؤولية إدارة الموارد. لذلك ، إذا كنت بحاجة إلى موظفين إضافيين لمشروعك ، فستعمل في ظل القيود المتمثلة في أن تعيين الموظفين يتم عادةً بواسطة المديرين الوظيفيين المسؤولين عن معظم موارد المشروع.\r\nكتاب البمبوك الاصدار السادس- صفحة رقم 47.",
+            "question_title_fr": "Vous travaillez en tant que manager &agrave; temps partiel dans une organisation &agrave; matricie faible (weak matrix).&nbsp;Votre responsable fonctionnel ajoute &agrave; votre charge de travail en vous d&eacute;clarant chef de projet pour une nouvelle id&eacute;e d&#39;entreprise.&nbsp;Apr&egrave;s avoir examin&eacute; le business case, vous comprenez que du nouveau personnel devra &ecirc;tre embauch&eacute; pour ex&eacute;cuter le projet. Sous quelle contrainte, le cas &eacute;ch&eacute;ant, fonctionnerez-vous en termes d&#39;embauche de personnel suppl&eacute;mentaire ?</p>",
+            "feedback_fr": "Conna&icirc;tre les diff&eacute;rences entre les types de structures organisationnelles est n&eacute;cessaire pour r&eacute;pondre correctement &agrave; cette question. Comprendre votre r&ocirc;le en tant que chef de projet dans diff&eacute;rentes structures organisationnelles joue un r&ocirc;le important dans vos responsabilit&eacute;s de management de projet et les d&eacute;cisions que vous devez prendre.&nbsp;Le r&ocirc;le du chef de projet dans une organisation &agrave; matricie&nbsp;faible est &agrave; temps partiel; dans le cadre d&#39;un autre travail et non pas en tant que coordinateur d&eacute;sign&eacute;.&nbsp;Dans une telle organisation, l&#39;autorit&eacute; du chef de projet sur les ressources est faible, et est le responsable fonctionnel qui prend la responsabilit&eacute; de g&eacute;rer les ressources.&nbsp;Par cons&eacute;quent, si vous avez besoin de personnel suppl&eacute;mentaire pour votre projet, vous fonctionnerez sous la contrainte que le recrutement du personnel est g&eacute;n&eacute;ralement effectu&eacute; par les responsables fonctionnels qui sont responsables de la plupart des ressources du projet.&nbsp;(PMBOK Guide) &ndash; Sixth Edition, Page(s) 47</p>",
+            "answers": [
+                {
+                    "id": 8491,
+                    "question_id": 2062,
+                    "answer": "ِAll stakeholders would be responsible for hiring staff.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سيكون جميع المعنيين مسؤولين عن تعيين الموظفين.",
+                        "answer_ar": "سيكون جميع المعنيين مسؤولين عن تعيين الموظفين.",
+                        "answer_fr": "Toutes les parties prenantes seraient responsables de l'embauche du personnel."
+                    }
+                },
+                {
+                    "id": 8494,
+                    "question_id": 2062,
+                    "answer": "The functional manager would be responsible for hiring staff.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "سيكون المدير الوظيفي مسؤولاً عن تعيين الموظفين.",
+                        "answer_ar": "سيكون المدير الوظيفي مسؤولاً عن تعيين الموظفين.",
+                        "answer_fr": "Le responsable fonctionnel serait responsable de l'embauche du personnel."
+                    }
+                },
+                {
+                    "id": 8492,
+                    "question_id": 2062,
+                    "answer": "Senior management would be responsible for hiring staff.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "ستكون الإدارة العليا مسؤولة عن تعيين الموظفين.",
+                        "answer_ar": "ستكون الإدارة العليا مسؤولة عن تعيين الموظفين.",
+                        "answer_fr": "La haute direction serait responsable de l'embauche du personnel."
+                    }
+                },
+                {
+                    "id": 8493,
+                    "question_id": 2062,
+                    "answer": "You, as project manager, would be responsible for hiring staff.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "أنت ، بصفتك مدير المشروع ، ستكون مسؤولاً عن تعيين الموظفين.",
+                        "answer_ar": "أنت ، بصفتك مدير المشروع ، ستكون مسؤولاً عن تعيين الموظفين.",
+                        "answer_fr": "Vous, en tant que chef de projet, serez responsable de l'embauche du personnel."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2063,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A project manager has just taken over a project to develop a product using a hybrid life cycle. With this project, the hardware has fixed requirements while the software requirements are still evolving. How should the project manager apply the hybrid life cycle for this project?",
+            "feedback": "The question describes a project which is utilizing a hybrid development life cycle. A hybrid development life cycle is a\r\ncombination of predictive and adaptive life cycles. In a predictive life cycle, the project scope, time, and cost are\r\ndetermined in the early phases of the life cycle. With an adaptive life cycle, the detailed scope is defined and approved\r\nbefore the start of an iteration. With a hybrid life cycle, those elements of the project that are well-known or have fixed\r\nrequirements follow a predictive development life cycle, and those elements that are still evolving follow an adaptive\r\ndevelopment life cycle. In this scenario, the hardware has fixed requirements while the software requirements are still\r\nevolving. Therefore, the project manager should develop the hardware with a predictive life cycle and use an adaptive life\r\ncycle for the development of the software.(PMBOK Guide) – Sixth Edition,  Page(s) 19",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "تولى مدير المشروع للتو مشروعًا لتطوير منتج باستخدام دورة الحياة الهجين . فى هذا المشروع ، يوجد للهارد وير متطلبات ثابتة بينما لا تزال متطلبات السوفت وير قيد التطور. كيف يجب على مدير المشروع تطبيق دورة الحياة الهجين لهذا المشروع؟",
+            "feedback_ar": "يصف السؤال مشروعًا يستخدم دورة حياة تطوير هجين . دورة حياة التطوير الهجين هي مزيج من دورات الحياة التنبؤية والمتكيفة . في دورة الحياة التنبؤية ، يتم تحديد نطاق المشروع والوقت والتكلفة في المراحل الأولى من دورة الحياة. مع دورة الحياة المتكيفة ، يتم تحديد النطاق التفصيلي والموافقة عليه قبل بدء التكرار. مع دورة حياة الهجين ، تتبع عناصر المشروع المعروفة أو التي لها متطلبات ثابتة دورة حياة تنبؤية ، وتتبع تلك العناصر التي لا تزال تتطور دورة حياة تطوير تكيفية. في هذا السيناريو ، يكون للهارد ويرمتطلبات ثابتة بينما لا تزال متطلبات السوفت ويرقيد التطور. لذلك ، يجب على مدير المشروع تطوير الهارد وير مع دورة حياة تنبؤية واستخدام دورة حياة تكيفية لتطوير السوفت وير. \r\nكتاب البمبوك الاصدار السادس- صفحة رقم 19.",
+            "question_title_fr": "Un chef de projet vient de&nbsp;reprendre en charge un projet de d&eacute;veloppement d&#39;un produit utilisant un cycle de vie hybride.&nbsp;Avec ce projet, le mat&eacute;riel&nbsp;Hardware a des exigences fixes tandis que les exigences logicielles &eacute;voluent encore. Comment le chef de projet doit-il appliquer le cycle de vie hybride pour ce projet ?</p>",
+            "feedback_fr": "La question d&eacute;crit un projet qui utilise un cycle de vie de d&eacute;veloppement hybride.&nbsp;Un cycle de vie hybride est une combinaison des cycles de vie pr&eacute;dictif et adaptatif. &nbsp;Dans un cycle de vie pr&eacute;dictif, le p&eacute;rim&egrave;tre, la dur&eacute;e et les co&ucirc;ts du projet sont d&eacute;termin&eacute;s au cours des premi&egrave;res phases du cycle de vie. Dans les cycles de vie adaptatifs sont agiles, it&eacute;ratifs ou incr&eacute;mentiels. Le p&eacute;rim&egrave;tre d&eacute;taill&eacute; est d&eacute;fini et approuv&eacute; avant le d&eacute;but d&rsquo;une it&eacute;ration.&nbsp;Avec un cycle de vie hybride,les &eacute;l&eacute;ments du projet bien connus ou dot&eacute;s d&rsquo;exigences &eacute;tablies suivent un cycle de d&eacute;veloppement pr&eacute;dictif, tandis que les &eacute;l&eacute;ments qui continuent d&rsquo;&eacute;voluer suivent un cycle de d&eacute;veloppement adaptatif.&nbsp;Dans ce sc&eacute;nario, le mat&eacute;riel a des exigences fixes tandis que les exigences logicielles sont encore en &eacute;volution. Par cons&eacute;quent, le chef de projet doit d&eacute;velopper le mat&eacute;riel avec un cycle de vie pr&eacute;dictif et utiliser un cycle de vie adaptatif pour le d&eacute;veloppement du logiciel.&nbsp;(PMBOK Guide) &ndash; Sixth Edition, Page(s) 19</p>",
+            "answers": [
+                {
+                    "id": 8498,
+                    "question_id": 2063,
+                    "answer": "Develop the hardware with a predictive life cycle and use an adaptive life cycle for the software",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "تطوير الهاردوير بدورة حياة تنبؤية واستخدم دورة حياة تكيفية للسوفت وير",
+                        "answer_ar": "تطوير الهاردوير بدورة حياة تنبؤية واستخدم دورة حياة تكيفية للسوفت وير",
+                        "answer_fr": "Développer le matériel Hardware  avec un cycle de vie prédictif et utiliser un cycle de vie adaptatif pour le logiciel"
+                    }
+                },
+                {
+                    "id": 8495,
+                    "question_id": 2063,
+                    "answer": "Develop the software with a predictive life cycle and use an adaptive life cycle for the hardware",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تطوير السوفت وير بدورة حياة تنبؤية واستخدم دورة حياة تكيفية للهارد وير",
+                        "answer_ar": "تطوير السوفت وير بدورة حياة تنبؤية واستخدم دورة حياة تكيفية للهارد وير",
+                        "answer_fr": "Développer le logiciel avec un cycle de vie prédictif et utiliser un cycle de vie adaptatif pour le matériel Hardware"
+                    }
+                },
+                {
+                    "id": 8496,
+                    "question_id": 2063,
+                    "answer": "Both the hardware and software should have their scope defined iteratively",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "يجب تحديد نطاق كل من الهارد وير والسوفت وير بشكل متكرر",
+                        "answer_ar": "يجب تحديد نطاق كل من الهارد وير والسوفت وير بشكل متكرر",
+                        "answer_fr": "Le matériel Hardware et le logiciel doivent avoir leur périmètre (Scope) définie de manière itérative"
+                    }
+                },
+                {
+                    "id": 8497,
+                    "question_id": 2063,
+                    "answer": "Both the hardware and software should have their scope defined during initial project planning",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "يجب تحديد نطاق كل من الهارد وير والسوفت وير أثناء التخطيط الأولي للمشروع",
+                        "answer_ar": "يجب تحديد نطاق كل من الهارد وير والسوفت وير أثناء التخطيط الأولي للمشروع",
+                        "answer_fr": "Le matériel Hardware et le logiciel doivent avoir leur périmètre (Scope) définie lors de la planification initiale du projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2064,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are the Project Manager of a project in which team members have a dual reporting structure. In addition to reporting to you, they also report to their functional manager. Also, the team members are expected to do the project work along with department work. You are working in which form of organization?",
+            "feedback": "These are the characteristics of a matrix organization where team members have dual reporting structure, and the teams work in their respective functional areas while performing project work. Tight matrix has nothing to do with organization structure. It simply denotes keeping the project team in the vicinity. Please refer to PMBOK® Guide - Sixth Edition, page 47.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت مدير مشروع . يقدم أعضاء الفريق فيه هيكل تقارير مزدوج. بالإضافة إلى تقديم التقارير إليك ، فهم أيضًا يقدمون تقاريرهم إلى مديرهم الوظيفي. ، من المتوقع أن يقوم أعضاء الفريق بعمل المشروع جنبًا إلى جنب مع عمل القسم. أنت تعمل في أي شكل من أشكال المنظمة؟",
+            "feedback_ar": "هذه هي خصائص منظمة المصفوفة حيث يكون لأعضاء الفريق هيكل إبلاغ مزدوج ، وتعمل الفرق في المجالات الوظيفية الخاصة بكل منها أثناء أداء عمل المشروع. المصفوفة الضيقة لا علاقة لها بالهيكل التنظيمي.  يرجى الرجوع إلى \r\nكتاب البمبوك الاصدار السادس- صفحة رقم 47.",
+            "question_title_fr": "Vous &ecirc;tes le chef d&#39;un projet dans lequel les membres de l&#39;&eacute;quipe ont une double structure hi&eacute;rarchique.&nbsp;En plus de rapporter &agrave; vous, ils rapportent &eacute;galement &agrave; leur responsable fonctionnel.&nbsp;En outre, les membres de l&#39;&eacute;quipe doivent effectuer le travail du projet en m&ecirc;me temps que le travail du d&eacute;partement. Vous travaillez dans quelle forme d&#39;organisation ?</p>",
+            "feedback_fr": "Ce sont les caract&eacute;ristiques d&#39;une organisation &agrave; matrice&nbsp;o&ugrave; les membres de l&#39;&eacute;quipe ont une double structure hi&eacute;rarchique, et les &eacute;quipes travaillent dans leurs domaines fonctionnels respectifs tout en effectuant le travail de projet.&nbsp;La matrice serr&eacute;e n&#39;a rien &agrave; voir avec la structure de l&#39;organisation. Cela signifie simplement garder l&#39;&eacute;quipe de projet &agrave; proximit&eacute;. Veuillez vous r&eacute;f&eacute;rer au&nbsp;PMBOK&reg; Guide - Sixth Edition, page 47.</p>",
+            "answers": [
+                {
+                    "id": 8501,
+                    "question_id": 2064,
+                    "answer": "Tight Matrix",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مصفوفى- ضيق",
+                        "answer_ar": "مصفوفى- ضيق",
+                        "answer_fr": "Matrice serrée"
+                    }
+                },
+                {
+                    "id": 8502,
+                    "question_id": 2064,
+                    "answer": "Matrix",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مصفوفى",
+                        "answer_ar": "مصفوفى",
+                        "answer_fr": "Matrice"
+                    }
+                },
+                {
+                    "id": 8500,
+                    "question_id": 2064,
+                    "answer": "Projectized",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "قوى",
+                        "answer_ar": "قوى",
+                        "answer_fr": "Orientée projet (Projectized)"
+                    }
+                },
+                {
+                    "id": 8499,
+                    "question_id": 2064,
+                    "answer": "Functional",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "وظيفي",
+                        "answer_ar": "وظيفي",
+                        "answer_fr": "Fonctionnelle"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2065,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Which of the following business documents Justify why the project is authorized?</p>",
+            "feedback": "The business need and the cost-benefit analysis are contained in the business case to justify and establish boundaries for the project. [PMBOK 6th edition, Page 77]</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أي من المستندات التالية تبرر سبب بدء المشروع؟</p>",
+            "feedback_ar": "يتم تضمين دراسة الاعمال وتحليل التكلفة مقابل المنفعة في دراسة الجدوى لتبرير ووضع حدود للمشروع. كتاب البمبوك الاصدار السادس- صفحة رقم 77.</p>",
+            "question_title_fr": "Lequel des documents business suivants justifie la raison pour laquelle le projet est autoris&eacute; ?</p>",
+            "feedback_fr": "Afin de justifier le projet et d&rsquo;en &eacute;tablir les limites, le business case comprend g&eacute;n&eacute;ralement les besoins du business et une analyse co&ucirc;t-b&eacute;n&eacute;fice. [PMBOK 6th edition, Page 77]&nbsp;</p>",
+            "answers": [
+                {
+                    "id": 8503,
+                    "question_id": 2065,
+                    "answer": "Project management plan.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "خطة إدارة المشروع.",
+                        "answer_ar": "خطة إدارة المشروع.",
+                        "answer_fr": "Plan de management du projet."
+                    }
+                },
+                {
+                    "id": 8504,
+                    "question_id": 2065,
+                    "answer": "Scope statement of work.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "بيان نطاق العمل.",
+                        "answer_ar": "بيان نطاق العمل.",
+                        "answer_fr": "L'Énoncé du périmètre de travail"
+                    }
+                },
+                {
+                    "id": 8505,
+                    "question_id": 2065,
+                    "answer": "Project charter.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "ميثاق المشروع.",
+                        "answer_ar": "ميثاق المشروع.",
+                        "answer_fr": "Charte du projet."
+                    }
+                },
+                {
+                    "id": 8506,
+                    "question_id": 2065,
+                    "answer": "Business case",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "دراسة الأعمال",
+                        "answer_ar": "دراسة الأعمال",
+                        "answer_fr": "Business case"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2092,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "<span style=\"font-size:20px\"><strong>What is the difference between a predictive lifecycle and an adaptive lifecycle?</strong></span></p>",
+            "feedback": "Predictive lifecycle is plan-driven; adaptive lifecycle is change-driven.</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "25",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "<span style=\"font-size:20px\"><strong>What is the difference between a predictive lifecycle and an adaptive lifecycle?</strong></span></p>",
+            "feedback_ar": "Predictive lifecycle is plan-driven; adaptive lifecycle is change-driven.</p>",
+            "question_title_fr": "Quelle est la diff&eacute;rence entre un cycle de vie pr&eacute;dictif et un cycle de vie adaptatif ?</p>",
+            "feedback_fr": "Le cycle de vie pr&eacute;dictif est orient&eacute;e par les plans (Plan-Driven) ; le cycle de vie adaptatif est &nbsp;bas&eacute;s sur le changement (change-driven).</p>",
+            "answers": [
+                {
+                    "id": 8611,
+                    "question_id": 2092,
+                    "answer": "The predictive follows the same pattern for each iteration and the adaptive lifecycle changes its approach based upon performance growth of the project results.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "The predictive follows the same pattern for each iteration and the adaptive lifecycle changes its approach based upon performance growth of the project results.",
+                        "answer_ar": "The predictive follows the same pattern for each iteration and the adaptive lifecycle changes its approach based upon performance growth of the project results.",
+                        "answer_fr": "Le prédictif suit le même schéma pour chaque itération et le cycle de vie adaptatif modifie son approche en fonction de la croissance des performances des résultats du projet."
+                    }
+                },
+                {
+                    "id": 8614,
+                    "question_id": 2092,
+                    "answer": "Predictive lifecycle is plan-driven; adaptive lifecycle is change-driven.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "Predictive lifecycle is plan-driven; adaptive lifecycle is change-driven.",
+                        "answer_ar": "Predictive lifecycle is plan-driven; adaptive lifecycle is change-driven.",
+                        "answer_fr": "Le cycle de vie prédictif est orientée par les plans (Plan-Driven) ; le cycle de vie adaptatif est  basés sur le changement (change-driven)."
+                    }
+                },
+                {
+                    "id": 8613,
+                    "question_id": 2092,
+                    "answer": "There is no difference",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "There is no difference",
+                        "answer_ar": "There is no difference",
+                        "answer_fr": "Il n'y a aucune différence"
+                    }
+                },
+                {
+                    "id": 8612,
+                    "question_id": 2092,
+                    "answer": "Predictive lifecycle forecasts project completion; adaptive lifecycle completes the project when the money runs out.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "Predictive lifecycle forecasts project completion; adaptive lifecycle completes the project when the money runs out.",
+                        "answer_ar": "Predictive lifecycle forecasts project completion; adaptive lifecycle completes the project when the money runs out.",
+                        "answer_fr": "Le cycle de vie prédictif prévoit l'achèvement du projet ; le cycle de vie adaptatif complète le projet lorsque l'argent est épuisé."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2284,
+            "correct_answers_required": 2,
+            "question_type_id": 2,
+            "question_title": "The decision to move from one phase to another is known as which of the following? (Choose two.)",
+            "feedback": "The decision to move from one phase to another is known as Kill point and Phase gate.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "The decision to move from one phase to another is known as which of the following? (Choose two.)",
+            "feedback_ar": "The decision to move from one phase to another is known as Kill point and Phase gate.",
+            "question_title_fr": "La d&eacute;cision de passer d&#39;une phase &agrave; une autre est connue sous le nom de laquelle des propositions suivantes ? (Choisissez-en deux.)</p>",
+            "feedback_fr": "La d&eacute;cision de passer d&#39;une phase &agrave; une autre est connue sous le nom : Porte de phase (Phase Gate)&nbsp; et&nbsp;Point d&#39;arr&ecirc;t (Kill point)</p>",
+            "answers": [
+                {
+                    "id": 144,
+                    "question_id": 2284,
+                    "answer": "Kill point",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "Kill point",
+                        "answer_ar": "Kill point",
+                        "answer_fr": "Point d'arrêt (Kill point)"
+                    }
+                },
+                {
+                    "id": 145,
+                    "question_id": 2284,
+                    "answer": "Phase gate",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "Phase gate",
+                        "answer_ar": "Phase gate",
+                        "answer_fr": "Porte de phase (Phase Gate)"
+                    }
+                },
+                {
+                    "id": 148,
+                    "question_id": 2284,
+                    "answer": "Continuance threshold",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "Continuance threshold",
+                        "answer_ar": "Continuance threshold",
+                        "answer_fr": "Seuil de continuité"
+                    }
+                },
+                {
+                    "id": 147,
+                    "question_id": 2284,
+                    "answer": "Phase endpoint",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "Phase endpoint",
+                        "answer_ar": "Phase endpoint",
+                        "answer_fr": "Point final de la phase"
+                    }
+                },
+                {
+                    "id": 146,
+                    "question_id": 2284,
+                    "answer": "Go/No go",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "Go/No go",
+                        "answer_ar": "Go/No go",
+                        "answer_fr": "Go/No go"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2285,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Which of the following describes the most common phase-to-phase relationship in multi-phase projects?</p>",
+            "feedback": "The phases may be sequential, iterative, or overlapping. PMBOK 6th edition. page, 19</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أي مما يلي يصف علاقه المرحلة مع المرحلة في مشاريع متعددة المراحل؟</p>",
+            "feedback_ar": "قد تكون المراحل متسلسلة أو متكررة أو متداخلة. كتاب البمبوك صفحة 19</p>",
+            "question_title_fr": "Lequel des &eacute;nonc&eacute;s suivants d&eacute;crit la relation de phase &agrave; phase la plus courante dans les projets &agrave; phases multiples ?</p>",
+            "feedback_fr": "Les phases sont effectu&eacute;es de fa&ccedil;on s&eacute;quentielle, it&eacute;rative ou en parall&egrave;le.&nbsp;PMBOK 6th edition. page, 19</p>",
+            "answers": [
+                {
+                    "id": 150,
+                    "question_id": 2285,
+                    "answer": "Finish-to-start",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "نهايه الى بداية",
+                        "answer_ar": "نهايه الى بداية",
+                        "answer_fr": "Fin-Début (Finish-to-Start)"
+                    }
+                },
+                {
+                    "id": 152,
+                    "question_id": 2285,
+                    "answer": "Orderly",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "منظم",
+                        "answer_ar": "منظم",
+                        "answer_fr": "Ordonnée"
+                    }
+                },
+                {
+                    "id": 149,
+                    "question_id": 2285,
+                    "answer": "Sequential",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "متتابع",
+                        "answer_ar": "متتابع",
+                        "answer_fr": "Séquentielle"
+                    }
+                },
+                {
+                    "id": 151,
+                    "question_id": 2285,
+                    "answer": "Non-overlapping",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "غير متداخل",
+                        "answer_ar": "غير متداخل",
+                        "answer_fr": "Non-parallèle"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2297,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "In addition to the departments listed in the scenario, your company also has a manager of project management to oversee all of the ongoing projects. As one of the project managers, you report directly to the project management department but share staff with other departments. What type of organizational structure does this describe?",
+            "feedback": "Keyword ( share staff with other departments. ) in matrix organizations there are two managers. Power is shared between the project manager and functional manager.</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "بالإضافة إلى الأقسام المدرجة في السيناريو ، تمتلك شركتك أيضًا مديرًا لإدارة المشاريع للإشراف على جميع المشاريع الجارية. بصفتك أحد مديري المشروع ، فإنك تقدم تقارير مباشرة إلى قسم إدارة المشروع لكنك تشارك الموظفين مع الأقسام الأخرى. ما نوع الهيكل التنظيمي الذي يصفه هذا؟",
+            "feedback_ar": "الكلمة المفتاحية ( مشاركة الفريق مع اقسام اخرى ) فى المؤسسات المصفوفيه يوجد مدير مشروع ومدير وظيفى ويتقاسمو ادارة المشروع والفريق.</p>",
+            "question_title_fr": "En plus des d&eacute;partements cit&eacute;s dans le sc&eacute;nario, votre entreprise dispose &eacute;galement d&#39;un directeur de management de projet pour superviser tous les projets en cours. En tant que chef de projet, vous d&eacute;pendez directement du service de management de projet mais vous partagez le personnel avec d&#39;autres d&eacute;partements. Quel type de structure organisationnelle cela d&eacute;crit-il ?</p>",
+            "feedback_fr": "Mot-cl&eacute; ( partager le personnel avec d&#39;autres d&eacute;partements). Dans les organisations matricielles, il y a deux responsables. Organisation matricielle (Matrix Organization)&nbsp;Structure organisationnelle dans laquelle le chef de projet et les responsables fonctionnels partagent la responsabilit&eacute;.</p>",
+            "answers": [
+                {
+                    "id": 201,
+                    "question_id": 2297,
+                    "answer": "Functional",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "وظيفى",
+                        "answer_ar": "وظيفى",
+                        "answer_fr": "Fonctionnelle"
+                    }
+                },
+                {
+                    "id": 200,
+                    "question_id": 2297,
+                    "answer": "Projectized",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "موجه نحو المشروع",
+                        "answer_ar": "موجه نحو المشروع",
+                        "answer_fr": "Orientée projet (Projectized)"
+                    }
+                },
+                {
+                    "id": 199,
+                    "question_id": 2297,
+                    "answer": "Matrix",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مصفوفى",
+                        "answer_ar": "مصفوفى",
+                        "answer_fr": "Matricielle"
+                    }
+                },
+                {
+                    "id": 202,
+                    "question_id": 2297,
+                    "answer": "Composite",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مركب",
+                        "answer_ar": "مركب",
+                        "answer_fr": "Composite"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2298,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Early in the establishment of the project, the project manager spends time looking for historical data that might be helpful in planning the new project. She is looking for examples of project documents in similar projects that have been completed that she might be able to use as templates for the new project. She is also looking for information about established processes and procedures that will help the project run more smoothly. What is the term used to define these?",
+            "feedback": "templates, processes, and procedures are an example of Organizational process assets (OPAs).",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "في وقت مبكر من إنشاء المشروع ، يقضي مدير المشروع الوقت في البحث عن البيانات التاريخية التي قد تكون مفيدة في التخطيط للمشروع الجديد. إنها تبحث عن أمثلة لوثائق المشروع في مشاريع مماثلة تم إكمالها والتي قد تتمكن من استخدامها كقوالب للمشروع الجديد. وهي تبحث أيضًا عن معلومات حول العمليات والإجراءات المعمول بها والتي ستساعد المشروع على العمل بسلاسة أكبر. ما هو المصطلح المستخدم لتعريف هذه؟",
+            "feedback_ar": "النماذج والعمليات والإجراءات هي مثال على أصول عمليات المؤسسة (OPAs).",
+            "question_title_fr": "Au d&eacute;but de la mise en place du projet, le chef de projet passe du temps &agrave; rechercher des donn&eacute;es historiques qui pourraient &ecirc;tre utiles pour planifier le nouveau projet. Elle recherche des exemples de documents de projet dans des projets similaires qui ont &eacute;t&eacute; achev&eacute;s et dont elle pourrait utiliser comme mod&egrave;les pour son&nbsp;nouveau projet. Elle est &eacute;galement &agrave; la recherche d&#39;informations sur les processus et proc&eacute;dures &eacute;tablis qui aideront le projet &agrave; mieux se d&eacute;rouler. Quel est le terme utilis&eacute; pour les d&eacute;finir ?</p>",
+            "feedback_fr": "Les mod&egrave;les, les processus et les proc&eacute;dures sont des&nbsp;exemples d&#39;actifs organisationnels (Organizational process assets/ OPA)</p>",
+            "answers": [
+                {
+                    "id": 205,
+                    "question_id": 2298,
+                    "answer": "Progressive elaboration",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الاتضاح التدريجى",
+                        "answer_ar": "الاتضاح التدريجى",
+                        "answer_fr": "Élaboration progressive"
+                    }
+                },
+                {
+                    "id": 204,
+                    "question_id": 2298,
+                    "answer": "Enterprise environmental factors (EEFs)",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "العوامل المحيطة بالمشروع",
+                        "answer_ar": "العوامل المحيطة بالمشروع",
+                        "answer_fr": "Facteurs environnementaux de l’organisation EEF (Enterprise environmental factors)"
+                    }
+                },
+                {
+                    "id": 203,
+                    "question_id": 2298,
+                    "answer": "Organizational process assets (OPAs).",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "أصول عمليات  المؤسسة",
+                        "answer_ar": "أصول عمليات  المؤسسة",
+                        "answer_fr": "Actifs organisationnels (Organizational process assets/ OPA)"
+                    }
+                },
+                {
+                    "id": 206,
+                    "question_id": 2298,
+                    "answer": "Retrospective",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "اجتماع الرجعية",
+                        "answer_ar": "اجتماع الرجعية",
+                        "answer_fr": "Rétrospective"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2339,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "A skilled project manager should have the necessary expertise to identify appropriate project management approaches (traditional vs. Agile) and tailor the tools, techniques, and methods for each project. What are these skills called?",
+            "feedback": "This is an example of technical project management skills.\n [PMBOK® Guide, 6th edition, Page 58]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 14,
+            "process_group": "People",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "يجب أن يتمتع مدير المشروع الماهر بالخبرة اللازمة لتحديد مناهج إدارة المشروع المناسبة (التقليدية مقابل الرشيقة ) وتصميم الأدوات والتقنيات والأساليب لكل مشروع. ماذا تسمى هذه المهارات؟",
+            "feedback_ar": "هذا مثال على مهارات الإدارة الفنية للمشاريع\t\n [PMBOK® Guide, 6th edition, Page 58]",
+            "question_title_fr": "Un chef de projet qualifi&eacute; doit avoir l&#39;expertise n&eacute;cessaire pour identifier les approches de management de projet appropri&eacute;es (traditionnelles ou agiles) et adapter les outils, techniques et m&eacute;thodes pour chaque projet. Comment s&#39;appellent ces comp&eacute;tences ?</p>",
+            "feedback_fr": "Ceci est un exemple de comp&eacute;tences techniques en management de projet.&nbsp;[PMBOK&reg; Guide, 6th edition, Page 58]</p>",
+            "answers": [
+                {
+                    "id": 9320,
+                    "question_id": 2339,
+                    "answer": "Strategic and business management skills",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مهارات الإدارة الاستراتيجية وادارة الأعمال",
+                        "answer_ar": "مهارات الإدارة الاستراتيجية وادارة الأعمال",
+                        "answer_fr": "Compétences en management stratégique et organisationnel"
+                    }
+                },
+                {
+                    "id": 9322,
+                    "question_id": 2339,
+                    "answer": "Interpersonal skills",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المهارات الشخصية",
+                        "answer_ar": "المهارات الشخصية",
+                        "answer_fr": "Compétences interpersonnelles (Interpersonal Skills)"
+                    }
+                },
+                {
+                    "id": 9319,
+                    "question_id": 2339,
+                    "answer": "Technical project management skills",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مهارات الإدارة الفنية للمشاريع",
+                        "answer_ar": "مهارات الإدارة الفنية للمشاريع",
+                        "answer_fr": "Compétences techniques en management de projet"
+                    }
+                },
+                {
+                    "id": 9321,
+                    "question_id": 2339,
+                    "answer": "Leadership skills",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مهارات القيادة",
+                        "answer_ar": "مهارات القيادة",
+                        "answer_fr": "Les compétences en leadership"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2353,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You are working on a large project that is divided into the following phases: feasibility, conceptual, design, prototype, and build. You want to use the process groups with these different phases. What is the recommended approach?",
+            "feedback": "Process groups should not be confused with project phases. Each phase should contain all of the process groups. [PMBOK® Guide 6th Edition, Page 19]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "21",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنت تعمل على مشروع كبير ينقسم إلى المراحل التالية: الجدوى ، والمفاهيم ، والتصميم ، والنموذج الأولي ، والبناء. تريد استخدام مجموعات العمليات مع هذه المراحل المختلفة. ما هو النهج الموصى به؟",
+            "feedback_ar": "يجب عدم الخلط بين مجموعات العمليات ومراحل المشروع. يجب أن تحتوي كل مرحلة على كل مجموعات العملية.\n[PMBOK® Guide 6th Edition, Page 19]",
+            "question_title_fr": "Vous travaillez sur un grand projet divis&eacute; en phases suivantes: faisabilit&eacute;, conceptuelle, design, prototype, et la construction. Vous souhaitez utiliser les groupes de processus avec ces diff&eacute;rentes phases. Quelle est l&#39;approche recommand&eacute;e?</p>",
+            "feedback_fr": "Les groupes de processus ne doivent pas &ecirc;tre confondus avec les phases du projet. Chaque phase doit contenir tous les groupes de processus.&nbsp;[PMBOK&reg; Guide 6th Edition, Page 19]</p>",
+            "answers": [
+                {
+                    "id": 9375,
+                    "question_id": 2353,
+                    "answer": "Repeat all the five process groups for each phase",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "كرر كل مجموعات العمليات الخمس لكل مرحلة",
+                        "answer_ar": "كرر كل مجموعات العمليات الخمس لكل مرحلة",
+                        "answer_fr": "Répétez tous les cinq groupes de processus pour chaque phase"
+                    }
+                },
+                {
+                    "id": 9376,
+                    "question_id": 2353,
+                    "answer": "Assign one process group to each phase",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "قم بتعيين مجموعة عمليات واحدة لكل مرحلة",
+                        "answer_ar": "قم بتعيين مجموعة عمليات واحدة لكل مرحلة",
+                        "answer_fr": "Attribuez un groupe de processus à chaque phase"
+                    }
+                },
+                {
+                    "id": 9377,
+                    "question_id": 2353,
+                    "answer": "Eliminate your phase structure and rename each phase with one of the process group names",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تخلص من بنية المرحلة وأعد تسمية كل مرحلة بأحد أسماء مجموعة العمليات",
+                        "answer_ar": "تخلص من بنية المرحلة وأعد تسمية كل مرحلة بأحد أسماء مجموعة العمليات",
+                        "answer_fr": "Éliminez votre structure de phase et renommez chaque phase avec l'un des noms de groupe de processus"
+                    }
+                },
+                {
+                    "id": 9378,
+                    "question_id": 2353,
+                    "answer": "Skip a couple of the process groups since they don't apply to a large project",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تخطي مجموعتين من مجموعات العمليات لأنها لا تنطبق على مشروع كبير",
+                        "answer_ar": "تخطي مجموعتين من مجموعات العمليات لأنها لا تنطبق على مشروع كبير",
+                        "answer_fr": "Ignorez quelques groupes de processus car ils ne s'appliquent pas à un grand projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2356,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "Which of the following statements most accurately describes a typical project scenario?",
+            "feedback": "Staffing is typically highest during the execution phase of the project. The other three responses may not hold true. Projects can move forward into subsequent phases without the deliverables of the prior phase being completely approved; this is known as fast tracking. Changes during the initial phases of the project are the least expensive. The influence of the stakeholders is highest during the start of the project and declines as the project moves to completion. [PMBOK&reg; Guide 6th edition, Page 549]</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أي من العبارات التالية يصف بدقة سيناريو مشروع نموذجي؟",
+            "feedback_ar": "عادة ما تكون الموارد هو الأعلى خلال مرحلة تنفيذ المشروع. قد لا تكون الاجابات الثلاثة الأخرى صحيحة. يمكن للمشاريع المضي قدمًا في المراحل اللاحقة دون الموافقة الكاملة على مخرجات المرحلة السابقة ؛ يُعرف هذا بالتتبع السريع. التغييرات خلال المراحل الأولى من المشروع هي الأقل تكلفة. يكون تأثير المعنيين على أعلى مستوى خلال بداية المشروع وينخفض مع انتقال المشروع إلى الاكتمال</p>",
+            "question_title_fr": "Lequel des &eacute;nonc&eacute;s suivants d&eacute;crit&nbsp;plus pr&eacute;cis&eacute;ment un sc&eacute;nario de projet typique ?</p>",
+            "feedback_fr": null,
+            "answers": [
+                {
+                    "id": 9390,
+                    "question_id": 2356,
+                    "answer": "The influence of the stakeholders is the same all through the project.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تأثير المعنيين هو نفسه طوال المشروع.",
+                        "answer_ar": "تأثير المعنيين هو نفسه طوال المشروع.",
+                        "answer_fr": "L'influence des parties prenantes est la même tout au long du projet."
+                    }
+                },
+                {
+                    "id": 9387,
+                    "question_id": 2356,
+                    "answer": "Staffing peaks during the execution phase of a project.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "ذروة الموارد خلال مرحلة تنفيذ المشروع.",
+                        "answer_ar": "ذروة الموارد خلال مرحلة تنفيذ المشروع.",
+                        "answer_fr": "La dotation en personnel connaît un pic pendant la phase d'exécution d'un projet."
+                    }
+                },
+                {
+                    "id": 9388,
+                    "question_id": 2356,
+                    "answer": "The next phase of a project should never start until the deliverables for the previous phase are completely reviewed and approved.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "يجب ألا تبدأ المرحلة التالية من المشروع أبدًا حتى تتم مراجعة المخرجات للمرحلة السابقة والموافقة عليها بالكامل.",
+                        "answer_ar": "يجب ألا تبدأ المرحلة التالية من المشروع أبدًا حتى تتم مراجعة المخرجات للمرحلة السابقة والموافقة عليها بالكامل.",
+                        "answer_fr": "La phase suivante d'un projet ne doit jamais commencer avant que les livrables de la phase précédente ne soient complètement examinés et approuvés."
+                    }
+                },
+                {
+                    "id": 9389,
+                    "question_id": 2356,
+                    "answer": "Changes in project scope during the initial phases of the project are very expensive.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تعتبر التغييرات في نطاق المشروع خلال المراحل الأولية للمشروع باهظة الثمن.",
+                        "answer_ar": "تعتبر التغييرات في نطاق المشروع خلال المراحل الأولية للمشروع باهظة الثمن.",
+                        "answer_fr": "Les changements dans le périmètre du projet pendant les phases initiales du projet sont très coûteux."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2357,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "You have recommended developing a business case for each of the organizational projects followed by the development of a project benefits management plan. Who would you recommend to be the owner of the business case?",
+            "feedback": "The project sponsor is generally accountable for the development and maintenance of the project business case document. The project manager is responsible for providing recommendations and oversight to keep the project business case, project management plan, project charter, and project benefits management plan success measures in alignment with one another and with the goals and objectives of the organization. [PMBOK® Guide, 6th edition, Page 29]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "لقد أوصيت بتطوير دراسة جدوى لكل مشروع تنظيمي متبوعًا بوضع خطة إدارة فوائد المشروع. بمن تنصح أن يكون صاحب دراسة الجدوى؟",
+            "feedback_ar": "يكون راعي المشروع مسؤولاً بشكل عام عن تطوير وصيانة وثيقة دراسة الجدوى الخاصة بالمشروع. مدير المشروع مسؤول عن تقديم التوصيات والإشراف للحفاظ على حالة عمل المشروع ، وخطة إدارة المشروع ، وميثاق المشروع ، وتدابير نجاح خطة إدارة فوائد المشروع بما يتماشى مع بعضها البعض ومع أهداف وغايات المنظمة\n[PMBOK® Guide, 6th edition, Page 29]",
+            "question_title_fr": "Vous avez recommand&eacute; l&#39;&eacute;laboration d&#39;un&nbsp;business case&nbsp;pour chacun des projets de l&#39;organisation,&nbsp;suivie de l&#39;&eacute;laboration d&#39;un&nbsp;plan de gestion des b&eacute;n&eacute;fices du projet.&nbsp;Qui recommanderiez-vous pour &ecirc;tre le propri&eacute;taire de la&nbsp;business case?</p>",
+            "feedback_fr": "En r&egrave;gle g&eacute;n&eacute;rale, il revient au sponsor du projet d&rsquo;&eacute;laborer et de mettre &agrave; jour le business case du projet. Le chef de projet est, quant &agrave; lui, responsable de la formulation de recommandations et de la supervision afin d&rsquo;assurer l&rsquo;alignement des mesures de succ&egrave;s du business case, du plan de management, de la charte et du plan de gestion des b&eacute;n&eacute;fices du projet entre elles mais aussi sur les buts et les objectifs de l&rsquo;organisation.&nbsp;[PMBOK&reg; Guide, 6th edition, Page 29]</p>",
+            "answers": [
+                {
+                    "id": 9392,
+                    "question_id": 2357,
+                    "answer": "Project team",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "فريق المشروع",
+                        "answer_ar": "فريق المشروع",
+                        "answer_fr": "L'Équipe de projet"
+                    }
+                },
+                {
+                    "id": 9393,
+                    "question_id": 2357,
+                    "answer": "Change Control Board",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "لجنة التحكم فى التغيير",
+                        "answer_ar": "لجنة التحكم فى التغيير",
+                        "answer_fr": "Comité de maîtrise des changements CCB"
+                    }
+                },
+                {
+                    "id": 9391,
+                    "question_id": 2357,
+                    "answer": "Project sponsor",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "راعى المشروع",
+                        "answer_ar": "راعى المشروع",
+                        "answer_fr": "Sponsor du projet"
+                    }
+                },
+                {
+                    "id": 9394,
+                    "question_id": 2357,
+                    "answer": "Project manager",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "مدير المشروع",
+                        "answer_ar": "مدير المشروع",
+                        "answer_fr": "Chef de projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2362,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "The traditional project management approaches place the project manager at the center of coordination for the project and makes them\nresponsible for the project tracking and reporting. However, this approach is not suitable for:",
+            "feedback": "Agile approaches are recommended for high-change projects. Such projects require cross-functional teams to coordinate their own work because usually such projects have more complexity than one person can manage. [Agile Practice Guide, 1st edition, Page 38]",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 15,
+            "process_group": "Process",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "تضع مناهج إدارة المشروع التقليدية مدير المشروع في مركز تنسيق المشروع وتجعله\nمسؤول عن تتبع المشروع وإعداد التقارير. لكن هذا النهج غير مناسب لـ:",
+            "feedback_ar": "يوصى باستخدام نهج رشيقة للمشاريع عالية التغيير. تتطلب مثل هذه المشاريع فرقًا متعددة الوظائف لتنسيق عملها الخاص لأن مثل هذه المشاريع عادةً ما يكون لها تعقيد أكثر مما يمكن لشخص واحد إدارته. [دليل الممارسة الرشيقة ، الطبعة الأولى ، الصفحة 38]",
+            "question_title_fr": "Les approches traditionnelles de management de projet placent le chef de projet au centre de la coordination et&nbsp;le rendent responsable du suivi et des rapports du projet. Cependant, cette approche n&#39;est pas appropri&eacute;e pour :</p>",
+            "feedback_fr": "Les approches agiles sont recommand&eacute;es pour les projets&nbsp;qui connaissent de grands changements.&nbsp;De tels projets n&eacute;cessitent&nbsp;les &eacute;quipes pluridisciplinaires qui coordonnent leur travail&nbsp;parce qu&#39;en g&eacute;n&eacute;ral, ces projets ont plus de&nbsp;complexit&eacute; dont&nbsp;telle qu&rsquo;une seule personne ne peut pas les g&eacute;rer.&nbsp;[Agile Practice Guide, 1st edition, Page 38]</p>",
+            "answers": [
+                {
+                    "id": 9412,
+                    "question_id": 2362,
+                    "answer": "Projects that require front-loaded planning work.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المشاريع التي تتطلب أعمال تخطيط محملة مسبقًا.",
+                        "answer_ar": "المشاريع التي تتطلب أعمال تخطيط محملة مسبقًا.",
+                        "answer_fr": "Projets qui nécessitent un travail de planification en avance."
+                    }
+                },
+                {
+                    "id": 9411,
+                    "question_id": 2362,
+                    "answer": "High-change projects where there is more complexity than one person can manage",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "المشاريع عالية التغيير حيث يوجد تعقيد أكثر مما يمكن لشخص واحد إدارته",
+                        "answer_ar": "المشاريع عالية التغيير حيث يوجد تعقيد أكثر مما يمكن لشخص واحد إدارته",
+                        "answer_fr": "Les projets qui connaissent de grands changements, dont la complexité est telle qu’une seule personne \nne peut pas les gérer."
+                    }
+                },
+                {
+                    "id": 9413,
+                    "question_id": 2362,
+                    "answer": "Low-change projects where detailed scope has been provided by the client organization.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المشاريع منخفضة التغيير حيث تم توفير نطاق مفصل من قبل المنظمة العميلة.",
+                        "answer_ar": "المشاريع منخفضة التغيير حيث تم توفير نطاق مفصل من قبل المنظمة العميلة.",
+                        "answer_fr": "Projets à faible changement où le périmètre détaillée a été fournie par l'organisation cliente."
+                    }
+                },
+                {
+                    "id": 9414,
+                    "question_id": 2362,
+                    "answer": "Projects where detailed schedules are required to be developed and approved by the clients.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المشاريع التي تتطلب جداول زمنية مفصلة ليتم تطويرها والموافقة عليها من قبل العملاء.",
+                        "answer_ar": "المشاريع التي تتطلب جداول زمنية مفصلة ليتم تطويرها والموافقة عليها من قبل العملاء.",
+                        "answer_fr": "Projets pour lesquels des échéanciers détaillés doivent être élaborés et approuvés par les clients."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2449,
+            "correct_answers_required": 3,
+            "question_type_id": 2,
+            "question_title": "An organization has established a controlling project management office (PMO). The first task of the PMO is to update the guidelines for project compliance in the organization.\nWhich of the following could the PMO enforce? (Choose three)",
+            "feedback": "There are several types of PMOs in an organization, with varying degrees of influence: supportive, controlling, and directive. A controlling PMO provides support, but\nalso require compliance. Compliance may involve the adoption of project management frameworks or methodologies; the use of specific templates, forms, and tools;\nand conformance to governance frameworks. However, neither a controlling PMO nor any other type of PMO for that matter enforces local health regulations. A\ncontrolling PMO does not decide on the use of management reserves either. It is the directive, not controlling PMO, that assigns project managers and take control of\nthe projects by directly managing them.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "أنشأت منظمة مكتب إدارة المشاريع النوع المتحكم . المهمة الأولى لمكتب إدارة المشروع هي تحديث المبادئ التوجيهية لامتثال المشروع في المنظمة.\nأي مما يلي يمكن لمكتب إدارة المشاريع تنفيذه؟ (اختر ثلاثة)",
+            "feedback_ar": "هناك عدة أنواع من مكتب إدارة المشروعات في المنظمة ، بدرجات متفاوتة من التأثير: داعم ، تحكم ، وتوجيهي. يوفر مكتب إدارة المشاريع المتحكم الدعم ، ولكن\nتتطلب أيضًا الامتثال. قد يشمل الامتثال اعتماد أطر أو منهجيات إدارة المشروع ؛ استخدام قوالب ونماذج وأدوات محددة ؛\nوالتوافق مع أطر الحوكمة. ومع ذلك ، لا يقوم مكتب إدارة المشاريع المسيطر ولا أي نوع آخر من مكتب إدارة المشاريع بهذا الأمر بفرض اللوائح الصحية المحلية. أ\nالسيطرة على مكتب إدارة المشاريع لا يقرر استخدام احتياطيات الإدارة أيضًا. إنه التوجيه ، وليس التحكم في PMO ، الذي يعين مديري المشاريع ويتولى السيطرة\nالمشاريع من خلال إدارتها مباشرة",
+            "question_title_fr": "Une organisation a cr&eacute;&eacute; un&nbsp;bureau&nbsp;des projets de type conformit&eacute;(controlling project management office &#39;PMO&#39;).&nbsp;La premi&egrave;re t&acirc;che du PMO est de mettre &agrave; jour les directives pour la conformit&eacute; des projets dans l&#39;organisation.&nbsp;Lequel des &eacute;l&eacute;ments suivants pourrait &ecirc;tre appliqu&eacute; par le PMO ? (Choisissez-en trois)</p>",
+            "feedback_fr": "Il existe plusieurs types de PMO au sein des organisations, qui diff&egrave;rent en termes du degr&eacute; de contr&ocirc;le et de l&rsquo;influence qu&rsquo;ils exercent sur les projets au c&oelig;ur de l&rsquo;organisation, notamment les suivants :&nbsp;Soutenant (supportive),&nbsp;Conformit&eacute; (controlling) et&nbsp;Directif (directive).&nbsp;Les bureaux des projets de type conformit&eacute; apportent leur soutien et exigent la conformit&eacute; par diff&eacute;rents moyens. Le degr&eacute; de ma&icirc;trise assum&eacute; par ce bureau des projets est mod&eacute;r&eacute;. La conformit&eacute; peut impliquer : * l&rsquo;adoption de cadres ou de m&eacute;thodologies de management de projet; * l&rsquo;utilisation de mod&egrave;les, de formulaires et d&rsquo;outils; * la conformit&eacute; aux cadres de gouvernance.&nbsp;Cependant, ni un PMO de &nbsp;type Conformit&eacute;, ni aucun autre type de PMO d&#39;ailleurs, n&#39;applique les r&eacute;glementations sanitaires locales. Un PMO de type &nbsp;Conformit&eacute; ne d&eacute;cide pas non plus de l&#39;utilisation R&eacute;serve pour impr&eacute;vus (Management reserve). est le type directif, et non le PMO de conformit&eacute;, qui affecte les chefs de projet et prend la maitrise des projets en les manageant directement.</p>",
+            "answers": [
+                {
+                    "id": 9761,
+                    "question_id": 2449,
+                    "answer": "Assignment of project managers by the PMO",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "تعيين مديري المشاريع من قبل مكتب إدارة المشاريع",
+                        "answer_ar": "تعيين مديري المشاريع من قبل مكتب إدارة المشاريع",
+                        "answer_fr": "Affectation des chefs de projet par le PMO"
+                    }
+                },
+                {
+                    "id": 9757,
+                    "question_id": 2449,
+                    "answer": "Use of particular project management methodologies",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "استخدام منهجيات معينة لإدارة المشروع",
+                        "answer_ar": "استخدام منهجيات معينة لإدارة المشروع",
+                        "answer_fr": "Utilisation de méthodologies particulières de management de projet"
+                    }
+                },
+                {
+                    "id": 9760,
+                    "question_id": 2449,
+                    "answer": "Adherence to local health regulations",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "الالتزام باللوائح الصحية المحلية",
+                        "answer_ar": "الالتزام باللوائح الصحية المحلية",
+                        "answer_fr": "Respect de la réglementation sanitaire locale"
+                    }
+                },
+                {
+                    "id": 9758,
+                    "question_id": 2449,
+                    "answer": "Adoption of specific templates, forms, and tools",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "اعتماد قوالب ونماذج وأدوات محددة",
+                        "answer_ar": "اعتماد قوالب ونماذج وأدوات محددة",
+                        "answer_fr": "L'adoption de modèles, de formulaires et d'outils spécifiques"
+                    }
+                },
+                {
+                    "id": 9759,
+                    "question_id": 2449,
+                    "answer": "Conformance to governance frameworks",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "التوافق مع أطر الحوكمة",
+                        "answer_ar": "التوافق مع أطر الحوكمة",
+                        "answer_fr": "La conformité aux cadres de gouvernance."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 2459,
+            "correct_answers_required": 1,
+            "question_type_id": 3,
+            "question_title": "What level of authority will the project managers have in each type of organizational structure? (Drag and drop the items from left to right )",
+            "feedback": "The level of authority afforded to a project manager is highly dependent upon the organizational structure type. With a functional organization, the staff is grouped by areas of specialization and the project manager has limited authority to assign work and apply resources. A matrix organization is an organizational structure in which the project manager shares responsibility with the functional managers for assigning priorities and for directing the work of individuals assigned to the project. The matrix organization type can be broken down to weak, moderate, or strong, depending on how much of the shared responsibility is provided to the project manager. In projectized organizational structure, work groups are arranged around the project, and the project manager controls the budget and has high to almost total authority over the project and its resources.",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "ما هو مستوى السلطة التي سيكون لدى مديري المشاريع في كل نوع من أنواع الهيكل التنظيمي ؟ (قم بسحب وإسقاط العناصر من اليمين إلى اليسار )",
+            "feedback_ar": "يعتمد مستوى السلطة الممنوحة لمدير المشروع بشكل كبير على نوع الهيكل التنظيمي. مع المنظمة الوظيفية ، يتم تجميع الموظفين حسب مجالات التخصص ويكون لمدير المشروع سلطة محدودة لتعيين العمل وتطبيق الموارد. منظمة المصفوفة هي هيكل تنظيمي يشارك فيه مدير المشروع المسؤولية مع المديرين الوظيفيين لتعيين الأولويات وتوجيه عمل الأفراد المعينين للمشروع. يمكن تقسيم نوع مؤسسة المصفوفة إلى ضعيفة أو متوسطة أو قوية ، اعتمادًا على مقدار المسؤولية المشتركة التي يتم توفيرها لمدير المشروع. في الهيكل التنظيمي المتوقع ، يتم ترتيب مجموعات العمل حول المشروع ، ويتحكم مدير المشروع في الميزانية ولديه سلطة عالية إلى شبه كاملة على المشروع وموارده.",
+            "question_title_fr": "Quel niveau d&#39;autorit&eacute; les chefs de projet auront-ils dans chaque type de structure organisationnelle ? (Faites glisser et d&eacute;posez les &eacute;l&eacute;ments de gauche &agrave; droite)</p>",
+            "feedback_fr": "Le niveau d&#39;autorit&eacute; accord&eacute; &agrave; un chef de projet d&eacute;pend fortement du type de structure organisationnelle.&nbsp;Dans une organisation fonctionnelle, le personnel est regroup&eacute; par domaines de sp&eacute;cialisation et le chef de projet a une autorit&eacute; limit&eacute;e pour attribuer le travail et utiliser les ressources.&nbsp;&nbsp;Une organisation matricielle est une structure organisationnelle dans laquelle le chef de projet partage avec les responsables fonctionnels la responsabilit&eacute; de l&#39;attribution des priorit&eacute;s et de la direction du travail des personnes affect&eacute;es au projet.&nbsp;Le type d&#39;organisation matricielle peut &ecirc;tre divis&eacute; en trois cat&eacute;gories : faible, &eacute;quilibr&eacute;e ou solide, en fonction de la part de responsabilit&eacute; partag&eacute;e confi&eacute;e au chef du projet.&nbsp;&nbsp;Dans la structure organisationnelle de type Orient&eacute;e projet , les groupes de travail sont organis&eacute;s autour du projet, et le chef de projet contr&ocirc;le le budget et a une autorit&eacute; &eacute;lev&eacute;e &agrave; quasi totale sur le projet et ses ressources.</p>",
+            "answers": null,
+            "drag_right": [
+                {
+                    "id": 36,
+                    "question_id": 2459,
+                    "left_sentence": "Low to moderate",
+                    "right_sentence": "Balanced matrix",
+                    "transcodes": {
+                        "left_sentence": "منخفضة الى معتدلة",
+                        "left_sentence_ar": "منخفضة الى معتدلة",
+                        "left_sentence_fr": "Faible à modérée",
+                        "right_sentence": "مصفوفى - متوازن",
+                        "right_sentence_ar": "مصفوفى - متوازن",
+                        "right_sentence_fr": "Matrice équilibrée(Balanced Matrix)"
+                    }
+                },
+                {
+                    "id": 38,
+                    "question_id": 2459,
+                    "left_sentence": "Moderate to high",
+                    "right_sentence": "Strong matrix",
+                    "transcodes": {
+                        "left_sentence": "معتدلة الى مرتفعة",
+                        "left_sentence_ar": "معتدلة الى مرتفعة",
+                        "left_sentence_fr": "Modérée à élevée",
+                        "right_sentence": "مصفوفى - قوى",
+                        "right_sentence_ar": "مصفوفى - قوى",
+                        "right_sentence_fr": "Matrice solide (Strong Matrix)"
+                    }
+                },
+                {
+                    "id": 35,
+                    "question_id": 2459,
+                    "left_sentence": "Little or none",
+                    "right_sentence": "Functional",
+                    "transcodes": {
+                        "left_sentence": "قليلة او لا توجد",
+                        "left_sentence_ar": "قليلة او لا توجد",
+                        "left_sentence_fr": "Peu voire aucune",
+                        "right_sentence": "وظيفى",
+                        "right_sentence_ar": "وظيفى",
+                        "right_sentence_fr": "Fonctionnelle"
+                    }
+                },
+                {
+                    "id": 37,
+                    "question_id": 2459,
+                    "left_sentence": "Low",
+                    "right_sentence": "Weak matrix",
+                    "transcodes": {
+                        "left_sentence": "منخفضة",
+                        "left_sentence_ar": "منخفضة",
+                        "left_sentence_fr": "Faible",
+                        "right_sentence": "مصفوفى - ضعيف",
+                        "right_sentence_ar": "مصفوفى - ضعيف",
+                        "right_sentence_fr": "Matrice faible (Weak Matrix)"
+                    }
+                },
+                {
+                    "id": 39,
+                    "question_id": 2459,
+                    "left_sentence": "High to almost total",
+                    "right_sentence": "Projectized",
+                    "transcodes": {
+                        "left_sentence": "مرتفعة الى كاملة تقريبا",
+                        "left_sentence_ar": "مرتفعة الى كاملة تقريبا",
+                        "left_sentence_fr": "Élevée à quasi totale",
+                        "right_sentence": "موجه نحو المشروع",
+                        "right_sentence_ar": "موجه نحو المشروع",
+                        "right_sentence_fr": "Orientée projet (Projectized)"
+                    }
+                }
+            ],
+            "drag_center": null
+        },
+        {
+            "id": 2460,
+            "correct_answers_required": 3,
+            "question_type_id": 2,
+            "question_title": "A project has just been initiated to transform an organization from a functional organizational structure to Projectized.\nIf the project is successful in meeting its objectives, what will be the most likely outcome? (Choose three)",
+            "feedback": "The purpose of any project is to drive the organization from the current state to a desired future state. In this scenario, the organization currently has a functional or\ncentralized organizational structure, and the stated goal of the project is to transform the organization to be projectized. With a functional\norganization, the functional manager will have authority over the project budget and resources, whereas, in a projectized organization, the project manager will have\ncontrol of the project budget. The correct answers represent characteristics that are consistent with a projectized organization. The incorrect answer choices are more\nindicative of a functional organization. \nPMBOK 6th edition Page 6 ,  47",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "لقد بدأ للتو مشروع لتحويل مؤسسة من هيكل تنظيمي وظيفي إلى موجه .\nإذا نجح المشروع في تحقيق أهدافه ، فما هي النتيجة المرجحة؟ (اختر ثلاثة)",
+            "feedback_ar": "الهدف من اى مشروع مساعدة المؤسسة انها تتحول من الوضع الحالي إلى الحالة المستقبلية المطلوبة.\t\nفى المؤسسات من النوع الموجه ، سيكون لمديرالمشروع التحكم فى ميزانية المشروع وايضا سيكون لمدير المشروع سلطة أكبر على المشاريع.\t\nالخيارات الاخرى مثال على المؤؤسات من النوع الوظيفى. \nPMBOK 6th edition Page 6 ,  47",
+            "question_title_fr": "Un projet vient d&#39;&ecirc;tre lanc&eacute; pour faire passer une organisation d&#39;une structure organisationnelle fonctionnelle &agrave; une structure orient&eacute;e projet. Si le projet r&eacute;ussit &agrave; atteindre ses objectifs, quel sera le r&eacute;sultat le plus probable ? (Choisissez-en trois)</p>",
+            "feedback_fr": "Le but de tout projet est de faire passer l&#39;organisation de l&#39;&eacute;tat actuel &agrave; un &eacute;tat futur souhait&eacute;.&nbsp;&nbsp;Dans ce sc&eacute;nario, l&#39;organisation a actuellement une structure organisationnelle fonctionnelle ou centralis&eacute;e, et l&#39;objectif d&eacute;clar&eacute; du projet est de transformer l&#39;organisation pour qu&#39;elle soit Orient&eacute;e projet.&nbsp;Dans une organisation fonctionnelle, le responsable fonctionnel aura l&#39;autorit&eacute; sur le budget et les ressources du projet, alors que dans une organisation orient&eacute;e projets, le chef du projet aura le contr&ocirc;le du budget du projet.&nbsp;Les r&eacute;ponses correctes repr&eacute;sentent des caract&eacute;ristiques qui sont coh&eacute;rentes avec une organisation orient&eacute;e projets. Les choix de r&eacute;ponses incorrectes sont plus indicatifs d&#39;une organisation fonctionnelle.&nbsp;PMBOK 6th edition Page 6 , 47</p>",
+            "answers": [
+                {
+                    "id": 9813,
+                    "question_id": 2460,
+                    "answer": "The organization will shift from the current state to the desired future state.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "سوف تتحول المنظمة من الوضع الحالي إلى الحالة المستقبلية المطلوبة.",
+                        "answer_ar": "سوف تتحول المنظمة من الوضع الحالي إلى الحالة المستقبلية المطلوبة.",
+                        "answer_fr": "L'organisation passera de l'état actuel à l'état futur souhaité."
+                    }
+                },
+                {
+                    "id": 9817,
+                    "question_id": 2460,
+                    "answer": "The role of the project manager(s) will be defined as a project coordinator.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سيتم تحديد دور مدير المشروع على أنه منسق المشروع.",
+                        "answer_ar": "سيتم تحديد دور مدير المشروع على أنه منسق المشروع.",
+                        "answer_fr": "Le rôle de(s) chef(s) de projet sera défini comme celui d'un coordinateur de projet."
+                    }
+                },
+                {
+                    "id": 9815,
+                    "question_id": 2460,
+                    "answer": "The project manager(s) will have significantly more authority over projects.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "سيكون لمدير المشروع سلطة أكبر على المشاريع.",
+                        "answer_ar": "سيكون لمدير المشروع سلطة أكبر على المشاريع.",
+                        "answer_fr": "Le(s) chef(s) de projet aura(ont) beaucoup plus d'autorité sur les projets."
+                    }
+                },
+                {
+                    "id": 9814,
+                    "question_id": 2460,
+                    "answer": "The project manager(s) will have control over the project budget.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "سيكون لمديرالمشروع التحكم فى ميزانية المشروع.",
+                        "answer_ar": "سيكون لمديرالمشروع التحكم فى ميزانية المشروع.",
+                        "answer_fr": "Le(s) chef(s) de projet aura(ont) le contrôle du budget du projet."
+                    }
+                },
+                {
+                    "id": 9816,
+                    "question_id": 2460,
+                    "answer": "Employees will be grouped by the work being done (engineering, manufacturing, etc.)",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "سيتم تجميع الموظفين حسب العمل الذي يتم إنجازه (الهندسة ، التصنيع ، إلخ)",
+                        "answer_ar": "سيتم تجميع الموظفين حسب العمل الذي يتم إنجازه (الهندسة ، التصنيع ، إلخ)",
+                        "answer_fr": "Les employés seront regroupés en fonction du travail effectué (ingénierie, fabrication, etc.)."
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 3821,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "<span style=\"font-size:20px\"><strong>During a project review meeting, the project sponsor is worried that the project may not be&nbsp;delivering results as planned. Based on that the project manager is evaluating the project status.<br />\nWhat information should the project manager use as an indicator that the project is actually&nbsp;delivering value?</strong></span></p>",
+            "feedback": "Keyword (&nbsp;<span style=\"font-size:20px\"><strong>delivering value )&nbsp;</strong></span></p>\n\n<span style=\"font-size:20px\"><strong>The benefits management plan is used to measure whether the benefits of the project were&nbsp;achieved as planned.</strong></span><br />\n&nbsp;</p>\n\n<span style=\"font-size:20px\"><strong>A benefits management plan is a document that describes how and when the benefits of a project&nbsp;will be derived and measured.<br />\nIt typically includes the following components:<br />\n&bull; Target benefits&mdash;the expected tangible and intangible business value to be realized from the&nbsp;project.<br />\n<br />\n&bull; Strategic alignment&mdash;how the benefits align with the business strategies of the&nbsp;organization.</strong></span></p>\n\n<br />\n<span style=\"font-size:20px\"><strong>&bull; Timeframe&mdash;when the benefits (short-term and long-term) will be realized, usually by project&nbsp;phase.<br />\n<br />\n&bull; Benefits owner&mdash;the person or group that monitors, records, and reports the benefits.<br />\n&bull; Metrics&mdash;the direct and indirect measurements of the realized benefits.<br />\n&bull; Risks&mdash;the risks associated with achieving the targeted benefits.<br />\nThis plan is prepared before the project is initiated, and it is referenced after the project has been&nbsp;completed.<br />\nIt is not a subsidiary component of the project management plan, but instead is a<br />\nbusiness document.</strong></span></p>\n\n<span style=\"font-size:20px\"><strong>A benefits management plan: </strong></span></p>\n\n<span style=\"font-size:20px\"><strong>explanation defining the&nbsp;processes for creating, maximizing, and sustaining the benefits provided by a project or program.</strong></span><br />\n<br />\n&nbsp;</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "22",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "<span style=\"font-size:20px\"><strong>أثناء اجتماع مراجعة المشروع ، يشعر راعي المشروع بالقلق من أن المشروع قد لا يقدم النتائج كما هو مخطط له .بناءً على ذلك يقوم مدير المشروع بتقييم حالة المشروع.ما هي المعلومات التي يجب أن يستخدمها مدير المشروع كمؤشر على أن المشروع يقدم قيمة فعلية؟</strong></span></p>",
+            "feedback_ar": "تُستخدم خطة إدارة المنافع لقياس ما إذا كانت فوائد المشروع قد تحققت كما هو مخطط لها.</p>\n\nخطة إدارة المنافع هي وثيقة تصف كيف ومتى سيتم اشتقاق وقياس فوائد المشروع.</p>\n\nيتم إعداد هذه الخطة قبل بدء المشروع ، ويتم الرجوع إليها بعد اكتمال المشروع.</p>\n\n<div id=\"gtx-trans\" style=\"left:178px; position:absolute; top:38px\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+            "question_title_fr": "Au cours d&#39;une r&eacute;union de revue de projet, le sponsor du projet craint que le projet ne livre pas les r&eacute;sultats planifi&eacute;s. Sur cette base, le chef de projet &eacute;value l&#39;&eacute;tat du projet.&nbsp;Quelles informations le chef de projet doit-il utiliser comme indicateur que&nbsp;le projet apporte&nbsp;r&eacute;ellement de la valeur?</p>",
+            "feedback_fr": "Mot-cl&eacute; ( apporte&nbsp;r&eacute;ellement de la valeur)</p>\n\n&nbsp;Le plan de gestion des b&eacute;n&eacute;fices sert &agrave; &eacute;valuer si les b&eacute;n&eacute;fices du projet ont &eacute;t&eacute; obtenus comme pr&eacute;vu.</p>\n\nLe plan de gestion des b&eacute;n&eacute;fices du projet est un document qui d&eacute;crit comment et quand les b&eacute;n&eacute;fices du projet seront obtenus. Il d&eacute;crit &eacute;galement les m&eacute;canismes &agrave; mettre en place pour mesurer ces b&eacute;n&eacute;fices.&nbsp;Le plan de gestion des b&eacute;n&eacute;fices d&eacute;crit les &eacute;l&eacute;ments cl&eacute;s des b&eacute;n&eacute;fices. Il comprend notamment les &eacute;l&eacute;ments suivants :&nbsp;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span> b&eacute;n&eacute;fices cibles (par exemple, la valeur tangible et intangible pr&eacute;vue r&eacute;sultant de l&rsquo;application du projet ; la valeur financi&egrave;re est exprim&eacute;e en tant que valeur actuelle nette) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span>&nbsp;alignement strat&eacute;gique (par exemple, dans quelle mesure les b&eacute;n&eacute;fices du projet s&rsquo;alignent sur les strat&eacute;gies de l&rsquo;organisation) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span> d&eacute;lai de r&eacute;alisation des b&eacute;n&eacute;fices (par exemple, les b&eacute;n&eacute;fices par phase, &agrave; court terme, &agrave; long terme et r&eacute;currents) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span>&nbsp;charg&eacute; de b&eacute;n&eacute;fice (par exemple, la personne charg&eacute;e de suivre, de consigner et de signaler les b&eacute;n&eacute;fices obtenus dans le d&eacute;lai fix&eacute; par le plan) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span>&nbsp;mesures (par exemple, les mesures &agrave; utiliser pour montrer les b&eacute;n&eacute;fices obtenus, les mesures directes et les mesures indirectes) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span>&nbsp;hypoth&egrave;ses (par exemple, les facteurs qui devraient &ecirc;tre en place ou en &eacute;vidence) ;</p>\n\n<span style=\"font-size:20px\"><strong>&bull;</strong></span>&nbsp;risques (par exemple, les risques inh&eacute;rents &agrave; la r&eacute;alisation des b&eacute;n&eacute;fices).</p>\n\nPlan de gestion des b&eacute;n&eacute;fices (Benefits Management Plan). Explication document&eacute;e des processus de g&eacute;n&eacute;ration, d&rsquo;optimisation et de p&eacute;rennisation des b&eacute;n&eacute;fices issus d&rsquo;un projet ou d&rsquo;un programme</p>",
+            "answers": [
+                {
+                    "id": 15283,
+                    "question_id": 3821,
+                    "answer": "The project is under budget and on schedule",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "المشروع اقل من الميزانيه المخططة ومع الجدول الزمنى",
+                        "answer_ar": "المشروع اقل من الميزانيه المخططة ومع الجدول الزمنى",
+                        "answer_fr": "Le projet est en dessous du budg et conforme à l'échéancier"
+                    }
+                },
+                {
+                    "id": 15281,
+                    "question_id": 3821,
+                    "answer": "The project is aligned with the benefits management plan",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "يتماشى المشروع مع خطة إدارة المنافع",
+                        "answer_ar": "يتماشى المشروع مع خطة إدارة المنافع",
+                        "answer_fr": "Le projet est aligné avec le Plan de gestion des bénéfices"
+                    }
+                },
+                {
+                    "id": 15284,
+                    "question_id": 3821,
+                    "answer": "Stakeholders are satisfied with the current status",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "رضاء المعنيين بحالة المشروع الحالية",
+                        "answer_ar": "رضاء المعنيين بحالة المشروع الحالية",
+                        "answer_fr": "Les parties prenantes sont satisfaites du statut actuel"
+                    }
+                },
+                {
+                    "id": 15282,
+                    "question_id": 3821,
+                    "answer": "The project is aligned with the project charter",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "يتماشى المشروع مع ميثاق المشروع",
+                        "answer_ar": "يتماشى المشروع مع ميثاق المشروع",
+                        "answer_fr": "Le projet est aligné avec la charte du projet"
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        },
+        {
+            "id": 4616,
+            "correct_answers_required": 1,
+            "question_type_id": 1,
+            "question_title": "<span style=\"font-size:18px\"><strong><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">A project manager acquired information from the market that would reduce the business value being delivered by an ongoing project. Based on that information, the project manager believes the project should be stopped. How should the project manager handle the situation?&nbsp; </span></strong></span></p>",
+            "feedback": "<span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\">The correct answer is: Have a discussion with the sponsor and recommend the project&#39;s business value be reassessed.</span></span></span></p>\n\nThe project sponsor is generally accountable for the development and maintenance of the project business case document. The project manager is responsible for providing recommendations and oversight to keep the project business case, project management plan, project charter, and project benefits management plan success measures in alignment with one another and with the goals and objectives of the organization.</p>",
+            "course_id": 35,
+            "course": "PMP 2022",
+            "chapter_id": 384,
+            "chapter": "Ch1+2+3 Project Framework Management",
+            "process_group_id": 16,
+            "process_group": "Business Environment",
+            "exam_num": "23",
+            "img": null,
+            "demo": 0,
+            "question_title_ar": "<span style=\"font-size:18px\"><strong>حصل مدير المشروع على معلومات من السوق من شأنها أن تقلل من قيمة الأعمال التي يتم تسليمها من خلال المشروع. بناءً على هذه المعلومات ، يعتقد مدير المشروع أنه يجب إيقاف المشروع. كيف يجب أن يتعامل مدير المشروع مع الموقف؟</strong></span></p>",
+            "feedback_ar": "إجراء مناقشة الراعي والتوصية بإعادة تقييم قيمة أعمال المشروع.</p>\n\nتكون الجهة الراعية مسؤولة بوجه عام عن تطوير وصيانة وثيقة دراسة أعمال مشروع. كما أن مدير المشروع هو المسؤول عن تقديم التوصيات والرقابة للحفاظ على دراسة أعمال للمشروع، وخطة إدارة المشروع، وميثاق المشروع، وقياسات نجاح خطة إدارة منافع المشروع متوافقة مع بعضهما البعض ومع الأهداف والغايات الأخرى للمؤسسة.</p>\n\n&nbsp;</p>",
+            "question_title_fr": null,
+            "feedback_fr": null,
+            "answers": [
+                {
+                    "id": 18458,
+                    "question_id": 4616,
+                    "answer": "Have a discussion with the project sponsor and cancel the project.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إجراء مناقشة مع راعي المشروع وإلغاء المشروع.",
+                        "answer_ar": "إجراء مناقشة مع راعي المشروع وإلغاء المشروع.",
+                        "answer_fr": ""
+                    }
+                },
+                {
+                    "id": 18459,
+                    "question_id": 4616,
+                    "answer": "Continue working on the defined scope and review the risk matrix.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "استمر في العمل على النطاق المحدد وقم بمراجعة مصفوفة المخاطر.",
+                        "answer_ar": "استمر في العمل على النطاق المحدد وقم بمراجعة مصفوفة المخاطر.",
+                        "answer_fr": ""
+                    }
+                },
+                {
+                    "id": 18456,
+                    "question_id": 4616,
+                    "answer": "Have a discussion with the sponsor and recommend the project business value be reassessed.",
+                    "is_correct": 1,
+                    "transcodes": {
+                        "answer": "مناقشة راعى المشروع والتوصية بإعادة تقييم قيمة أعمال المشروع.",
+                        "answer_ar": "مناقشة راعى المشروع والتوصية بإعادة تقييم قيمة أعمال المشروع.",
+                        "answer_fr": ""
+                    }
+                },
+                {
+                    "id": 18457,
+                    "question_id": 4616,
+                    "answer": "Remove the items no longer applicable from the backlog and present the backlog to the project team.",
+                    "is_correct": 0,
+                    "transcodes": {
+                        "answer": "إزالة العناصر التي لم تعد قابلة للتطبيق من سجل أعمال المنتج وقدم العمل المتأخر إلى فريق المشروع.",
+                        "answer_ar": "إزالة العناصر التي لم تعد قابلة للتطبيق من سجل أعمال المنتج وقدم العمل المتأخر إلى فريق المشروع.",
+                        "answer_fr": ""
+                    }
+                }
+            ],
+            "drag_right": null,
+            "drag_center": null
+        }
+    ],
+    "time_left": 0,
+    "answers_number": 0,
+    "start": 1,
+    "activeAnswers": null,
+    "activeDragRightAnswers": null,
+    "activeDragCenterAnswers": null
+}

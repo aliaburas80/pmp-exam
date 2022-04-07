@@ -1,0 +1,18 @@
+.listContainer {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  align-items: baseline;
+  ul {
+    padding: 0;
+    list-style-type: none;
+    li {
+      margin: 20px 0;
+    }
+  }
+}
+
+.visibel {
+  display: flex;
+}

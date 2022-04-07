@@ -1,0 +1,29 @@
+@import "../../styles/colors.scss";
+.btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.homeStartBtn {
+  background-color: $btnstartbgcolor;
+  color: $btnstarttextcolor;
+  margin-bottom: 20px;
+}
+
+.questionsType {
+  background-color: $btnSelectQuestionTypeBg;
+  &:hover {
+    background-color: $btnSelectQuestionTypeBgOver;
+  }
+}
+
+.questionsList {
+  background-color: $btnLisetBg;
+  color: $btnListTextColor;
+}
