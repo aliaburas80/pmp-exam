@@ -5,6 +5,9 @@ const nextConfig = {
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
   },
+  serverRuntimeConfig: {
+    PROJECT_ROOT: __dirname
+}
 }
 
 module.exports = nextConfig

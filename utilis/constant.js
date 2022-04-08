@@ -35,6 +35,41 @@ export const QUESTIONS = {
   EXAMS: ["Exam 1", "Exam 2", "Exam 3", "Exam 4", "Exam 5", "Exam 6", "Exam 7"],
 };
 
+export const JSON_FILES = {
+  CHAPTERS: [
+    "/data/Chapters/1.json",
+    "/data/Chapters/2.json",
+    "/data/Chapters/3.json",
+    "/data/Chapters/4.json",
+    "/data/Chapters/5.json",
+    "/data/Chapters/6.json",
+    "/data/Chapters/7.json",
+    "/data/Chapters/8.json",
+    "/data/Chapters/9.json",
+    "/data/Chapters/10.json",
+    "/data/Chapters/11.json",
+    "/data/Chapters/12.json",
+  ],
+  DOMAINS: [
+    ["/data/Domains/People/1.json", "/data/Domains/People/2.json"],
+    [
+      "/data/Domains/process/1.json",
+      "/data/Domains/process/2.json",
+      "/data/Domains/process/3.json",
+      "/data/Domains/process/4.json",
+      "/data/Domains/process/5.json",
+    ],
+    [
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+      "/data/Domains/exam/1.json",
+    ],
+  ],
+};
 // ["People Domain 1", "People Domain 2"],
 // [
 //   "Process Domain 1",

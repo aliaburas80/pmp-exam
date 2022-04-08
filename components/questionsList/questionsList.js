@@ -17,7 +17,7 @@ const QuestonsList = (props) => {
               <Button
                 label={item}
                 classes="questionsList"
-                url={`/questions/${questionType.toLowerCase()}/${index+1}`}
+                url={`/questions/${questionType.toLowerCase()}?q=${index+1}`}
               />
             </li>
           );
