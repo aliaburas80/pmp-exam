@@ -16,6 +16,7 @@ export const getServerSideProps = async (context) => {
   }
 };
 
+
 const Chapters = ({ data }) => {
   const router = useRouter();
   const { id } = router.query;
