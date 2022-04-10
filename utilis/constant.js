@@ -70,12 +70,8 @@ export const JSON_FILES = {
     ],
   ],
 };
-// ["People Domain 1", "People Domain 2"],
-// [
-//   "Process Domain 1",
-//   "Process Domain 2",
-//   "Process Domain 3",
-//   "Process Domain 4",
-//   "Process Domain 5",
-// ],
-// ["Environment Domain 1"],
+
+export const ANSWERS_TYPE = {
+  RADIO: "RADIO",
+  CHECK_BOX: "CHECK_BOX",
+};

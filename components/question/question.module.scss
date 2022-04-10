@@ -1,0 +1,38 @@
+@import "../../styles/colors.scss";
+
+.questionContainer {
+  display: flex;
+  max-width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: $questionContainerBg;
+  justify-content: flex-start;
+  margin: 30px auto;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 22px;
+  text-align: justify;
+}
+
+.radioAnswer {
+  border-radius: 5px;
+  background-color: $questionRadioAnswerBg;
+  cursor: pointer;
+}
+
+.radioAnswerContainer{
+  border-radius: 5px;
+  background-color: $questionRadioAnswerBg;
+  padding: 10px 5px;
+  margin: 5px 10px;
+  cursor: pointer;
+  display: block;
+}
+
+.labelAnswer{
+    padding: 0px 10px;
+    cursor: pointer;
+}

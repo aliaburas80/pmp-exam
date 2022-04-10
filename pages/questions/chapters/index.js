@@ -1,5 +1,7 @@
 import axios from "axios";
 import { useRouter } from "next/router";
+import Question from "../../../components/question/question";
+import { setData } from "../../../handlers/passDataBetweenPages";
 
 export const getServerSideProps = async (context) => {
   const { req, query } = context;
@@ -15,21 +17,16 @@ export const getServerSideProps = async (context) => {
 };
 
 const Chapters = ({ data }) => {
-  const regexHTMLTags = /(<([^>]+)>)/gi;
-  const regexUTFCodes= /&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-fA-F]{1,6});/ig
-  const regexSpace = /&nbsp;/g;
-  const removeAllHtmlTags = (string) => string.replace(regexHTMLTags, "").replace(regexSpace,' ').replace(regexUTFCodes,"")
   const router = useRouter();
   const { id } = router.query;
+  setData(data);
   return (
     <>
-      <h1>
-        <ul>
-          {data.questions.map((element) => {
-            return <li>{removeAllHtmlTags(element.question_title)}</li>;
-          })}
-        </ul>
-      </h1>
+      {data.questions.map((element, index) => {
+        return (
+          <Question key={index} index={index + 1} questionItem={element} />
+        );
+      })}
     </>
   );
 };
