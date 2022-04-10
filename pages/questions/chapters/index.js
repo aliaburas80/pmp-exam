@@ -22,11 +22,11 @@ const Chapters = ({ data }) => {
   setData(data);
   return (
     <>
-      {data.questions.map((element, index) => {
-        return (
-          <Question key={index} index={index + 1} questionItem={element} />
-        );
-      })}
+      {/* {data.questions.map((element, index) => { */}
+      {/* return ( */}
+      <Question key={1} index={1} questionItem={data.questions[0]} />
+      {/* ); */}
+      {/* })} */}
     </>
   );
 };
