@@ -11,15 +11,19 @@ const Answer = ({ answer, correct, type, handler, transcodes, index }) => {
   };
   return (
     <div className={style.radioAnswerContainer} onClick={clickHandler}>
-      <input
-        type="radio"
-        id={id}
-        name="questionPMP"
-        value={answer}
-        className={style.radioAnswer}
-        onChange={(e) => console.log(e)}
-      />
-      <label className={style.labelAnswer}>{answer}</label>
+      <div className={style.answerItemContainer}>
+        <input
+          type="radio"
+          id={id}
+          name="questionPMP"
+          value={answer}
+          className={style.radioAnswer}
+          onChange={(e) => console.log(e)}
+        />
+      </div>
+      <div className={style.answerItemContainer}>
+        <label className={style.labelAnswer}>{answer}</label>
+      </div>
     </div>
   );
 };
