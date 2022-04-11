@@ -15,7 +15,11 @@ const Button = (props) => {
     case "questionsList":
       styles = btnStyle.questionsList;
       break;
+    case "btnQuestionEnd":
+      styles = btnStyle.btnQuestionEnd;
+      break;
     default:
+      styles = btnStyle.btnQuestionNave;
       break;
   }
 

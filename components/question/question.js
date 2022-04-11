@@ -6,7 +6,7 @@ import style from "./question.module.scss";
 import QuestonTitle from "./questionTitle";
 
 const Question = ({ questionItem, index }) => {
-    
+  
   const checkAnswer = (isCorrect) => {
     console.log(isCorrect);
   };

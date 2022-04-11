@@ -22,7 +22,7 @@ const Answer = ({ answer, correct, type, handler, transcodes, index }) => {
         />
       </div>
       <div className={style.answerItemContainer}>
-        <label className={style.labelAnswer}>{answer}</label>
+        <span className={style.labelAnswer}>{answer}</span>
       </div>
     </div>
   );

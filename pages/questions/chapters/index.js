@@ -1,10 +1,12 @@
 import axios from "axios";
 import { useRouter } from "next/router";
+import BtnsNextPreviousQuestion from "../../../components/question/BtnsNextPreviousQuestion";
 import Question from "../../../components/question/question";
 import { setData } from "../../../handlers/passDataBetweenPages";
-
+import react, { useState } from "react";
 export const getServerSideProps = async (context) => {
   const { req, query } = context;
+
   if (req) {
     let host = req.headers.host;
     const questions = await axios
@@ -16,18 +18,30 @@ export const getServerSideProps = async (context) => {
   }
 };
 
-
 const Chapters = ({ data }) => {
   const router = useRouter();
   const { id } = router.query;
+  const maxQuestionLength = data.questions.length - 1;
+  const [currentIndex, setIndexHandler] = useState(1);
+
+  const setCurrentIndexHandler = (index) => setIndexHandler(index);
+
+  const doFinishExam = (e) => {};
+
   setData(data);
   return (
     <>
-      {/* {data.questions.map((element, index) => { */}
-      {/* return ( */}
-      <Question key={1} index={1} questionItem={data.questions[0]} />
-      {/* ); */}
-      {/* })} */}
+      <Question
+        key={currentIndex}
+        index={currentIndex}
+        questionItem={data.questions[currentIndex]}
+      />
+      <BtnsNextPreviousQuestion
+        currentIndex={currentIndex}
+        maxLength={maxQuestionLength}
+        setCurrentIndex={setCurrentIndexHandler}
+        doFinishExam={doFinishExam}
+      />
     </>
   );
 };

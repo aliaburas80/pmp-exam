@@ -27,3 +27,16 @@
   background-color: $btnLisetBg;
   color: $btnListTextColor;
 }
+
+.btnQuestionNave{
+  background-color: $btnLisetBg;
+  color: $btnListTextColor;
+  max-width: 300px;
+}
+
+
+.btnQuestionEnd{
+  background-color: $finishBtnBgColor;
+  color: $questionContainerBg;
+  max-width: 300px;
+}
