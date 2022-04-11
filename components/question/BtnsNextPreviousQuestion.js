@@ -22,6 +22,14 @@ const BtnsNextPreviousQuestion = ({
 
   return (
     <div className={style.btnContainer}>
+      {currentIndex !== 1 ? (
+        <Button
+          label="Previous"
+          classes="btnQuestionNave"
+          action={previousQuestionHandler}
+          id="previouseQuestion"
+        />
+      ) : null}
       {currentIndex !== maxLength ? (
         <Button
           label="Next"
@@ -36,14 +44,6 @@ const BtnsNextPreviousQuestion = ({
           classes="btnQuestionEnd"
           action={finishExamQuestionHandler}
           id="finishExamQuestion"
-        />
-      ) : null}
-      {currentIndex !== 1 ? (
-        <Button
-          label="Previous"
-          classes="btnQuestionNave"
-          action={previousQuestionHandler}
-          id="previouseQuestion"
         />
       ) : null}
     </div>
