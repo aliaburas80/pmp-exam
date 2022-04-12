@@ -21,7 +21,11 @@ const BtnsNextPreviousQuestion = ({
   };
 
   return (
-    <div className={style.btnContainer}>
+    <div
+      className={
+        currentIndex !== 1 ? style.btnContainer : style.btnContainerOnlyNext
+      }
+    >
       {currentIndex !== 1 ? (
         <Button
           label="Previous"

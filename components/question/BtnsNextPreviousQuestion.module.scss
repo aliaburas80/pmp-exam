@@ -1,7 +1,12 @@
-.btnContainer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    max-width: 80%;
-    margin: 0 auto;
+.btnContainer,
+.btnContainerOnlyNext {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.btnContainerOnlyNext {
+  justify-content: end;
 }
