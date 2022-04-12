@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "jest",
+    "test:coverage": "jest --coverage --watchAll=false --verbose=true --testTimeout=20000",
+    "test:watch": "jest --watch --coverage --watchAll=true --collectCoverageFrom=[] --verbose=true --testTimeout=20000",
   },
   "dependencies": {
     "axios": "^0.26.1",
